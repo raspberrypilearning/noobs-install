@@ -9,7 +9,7 @@ If you have a fresh SD card that has never been used, then you can probably skip
 
 1. Click on the *Windows* icon in the bottom left of the screen, or tap the *Windows* key on your keyboard, to open up the *Start Menu*, and type the word **partition**.
 
-![Start](windows/partition1.png)
+![Start](images/windows/partition1.png)
 
 2. Now click on the *Create and format hard disk partitions* program, which should be at the top of the menu.
 

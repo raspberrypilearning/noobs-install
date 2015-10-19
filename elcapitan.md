@@ -38,7 +38,7 @@ If you have a fresh SD Card then the following steps may not be necessary, but t
 
 3. Select all the files in the *NOOBS* folder and drag them into the SD Card window.
 
-![copying](image/osx/7_copy.png)
+![copying](images/osx/7_copy.png)
 
 4. Eject the SD card.
 
