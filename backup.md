@@ -11,8 +11,10 @@ If you have a USB flash drive or portable hard-drive with enough storage, then t
 ![USB](images/backup/usb1.png)
 2. Open the USB drive in *File Manager*
 3. Use *File Manager* to open a second window and position it side by side.
+![USB](images/backup/usb2.png)
 4. You can now copy the contents of `/home/pi` on the USB drive.
 
+(If you can't copy the files over, it probably means you are using a USB that has been formatted to be used with OS X. Try formatiing the USB drive with a FAT32 file system from your Mac)
 ## Backing up over a network
 You're going to need your Raspberry Pis IP address, to copy files over a network.
 
