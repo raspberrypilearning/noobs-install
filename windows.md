@@ -2,7 +2,7 @@
 
 # Preparing the SD card
 
-If you have a fresh SD card that has never been used, then you can probably skip this step, but it won't hurt if you are not sure.
+If you have a fresh SD card that has never been used, then you can probably skip this step, but it won't hurt to complete it if you are not sure.
 
 Insert your SD card into your computer and wait for it to be recognised. The first thing to do is to make sure there are no existing partitions on the SD card. A partition is just a section of the card that can be used to store files.
 
