@@ -22,7 +22,7 @@ If you have a fresh SD card then the following steps may not be necessary, but t
 
   ![DOS](images/osx/3_dos.png)
 
-7. When the format has completed click on *Done*.
+7. When the format has completed, click on *Done*.
 
   ![Format](images/osx/4_format.png)
 
