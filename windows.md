@@ -77,5 +77,5 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 8. That's it: you're finished. Click on the link below the image to learn how to install Raspbian Jessie on your Raspberry Pi.
 
   ![finished](images/windows/finished.png)
-
+  
 [Back to Installing Raspbian with NOOBS](worksheet.md)
