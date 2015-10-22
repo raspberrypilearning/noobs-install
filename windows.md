@@ -78,4 +78,4 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 
   ![finished](images/windows/finished.png)
 
-[Back to Getting Started with Raspbian](worksheet.md)
+Back to [Installing Raspbian with NOOBS](worksheet.md)
