@@ -42,4 +42,6 @@ If you have a fresh SD card then the following steps may not be necessary, but t
 
 4. Eject the SD card.
 
-4. That's it: you're finished. Click on the link below the image to learn how to install Raspbian Jessie on your Raspberry Pi.
+4. That's it: you're finished. Click on the link below to learn how to install Raspbian Jessie on your Raspberry Pi.
+
+[Back to Installing Raspbian with NOOBS](worksheet.md)
