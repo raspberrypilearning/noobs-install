@@ -84,3 +84,5 @@ If you are using a Linux machine, then you can copy the files directly from the 
 3. You files will be in `home/pi`, so double-click on the `home` directory and copy the entire `pi` directory to your local machine:
 
   ![SD](images/backup/SD2.png)
+
+Click on the link to go back to [Installing Raspbian with NOOBS](worksheet.md)
