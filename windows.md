@@ -20,7 +20,7 @@ Insert your SD card into your computer and wait for it to be recognised. The fir
 
   ![create a volume](images/windows/createVolume.png)
 
-5. A new window will open. All the default options can now be selected, but the below guide will take you through, step by step, in case you are unsure. First, click on *Next*:
+5. A new window will open. All the default options can now be selected, but the guide below will take you through, step by step, in case you are unsure. First, click on *Next*:
 
   ![create a volume 2](images/windows/createVolume2.png)
 
