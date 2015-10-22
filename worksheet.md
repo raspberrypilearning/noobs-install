@@ -22,15 +22,15 @@ Using NOOBS is the easiest way to install Raspbian to your SD card. To get hold 
 
 If the SD card you wsh to install Raspbian on currently has an older version of Raspbian, you may wish to back up the files from the card.
 
-[I need to back up my card, take me to the resource](backup.md)
+I need to back up my card: [take me to the resource](backup.md)
 
-To install Raspbian you're going to need a computer. Depending on the Operating System you are using, the setup instructions will be slightly different. To make things simple, this resource assumed that you are using either Microsoft Windows 10 or Apple OS X El Capitan. If you are using one of the many flavours of GNU/Linux, or a technically proficient user of another OS, then you're probably more than capable of installing Raspbian yourself, but you might want to check out the guides [here](https://www.raspberrypi.org/documentation/installation/installing-images/)
+To install Raspbian, you're going to need a computer. Depending on the operating system you are using, the setup instructions will be slightly different. To make things simple, this resource assumed that you are using either Microsoft Windows 10 or Apple OS X El Capitan. If you are using one of the many flavours of GNU/Linux, or if you are a technically proficient user of another OS, then you're probably more than capable of installing Raspbian yourself, but you might want to check out the guides [here](https://www.raspberrypi.org/documentation/installation/installing-images/)
 
 If you are using an earlier version of one of the operating systems then you should be able to follow the instructions, although some of the screen-shots will look a little different.
 
-I'm running Windows 10 - [take me to the resource](windows.md)
+I'm running Windows 10: [take me to the resource](windows.md)
 
-I'm running OS X El Capitan - [take me to the resource](elcapitan.md)
+I'm running OS X El Capitan: [take me to the resource](elcapitan.md)
 
 ## Booting from NOOBS
 
@@ -38,7 +38,7 @@ I'm running OS X El Capitan - [take me to the resource](elcapitan.md)
 
 2. You will be provided a single option, once the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
 
-![install](images/install.png)
+  ![install](images/install.png)
 
 3. Click **Yes** at the warning dialogue, and then sit back and relax. It will take a while, but Raspbian will install.
 
