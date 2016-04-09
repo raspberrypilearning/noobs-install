@@ -42,4 +42,6 @@ If you are using an earlier version of one of the operating systems, then you sh
 
 3. Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
 
-
+## What next?
+- Now you have your Raspberry Pi up and running with Raspbian, why not learn how to program with our free [resources](https://www.raspberrypi.org/resources)
+- Get physical with [Scratch](https://www.raspberrypi.org/learning/physical-computing-with-scratch/) or [Python](https://www.raspberrypi.org/learning/physical-computing-with-python/)
