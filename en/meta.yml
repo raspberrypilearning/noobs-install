@@ -7,7 +7,7 @@ theme: red
 duration: 2
 listed: false
 ingredient: true
-copyedit: true
+copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
 technologies: rpi, physical computing, python
