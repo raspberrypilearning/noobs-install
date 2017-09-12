@@ -83,7 +83,7 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 4. You should now see a new folder in your *Downloads* called *NOOBS*, with some version numbers after it. Open this folder to view the extracted files:
 
   ![extracted](images/windows/extracted.png)
-
+ 
 ## Copying the files
 
 5. Now open a new Explorer window and navigate to the SD card. It's best to position the two windows side by side:
