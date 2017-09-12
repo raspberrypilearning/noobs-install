@@ -27,7 +27,7 @@ If the SD card you wish to install Raspbian on currently has an older version of
 + In SD Formatter, select the drive letter for your SD card and format it.
 
 
-## Extracting NOOBS from the zip archive
+### Extracting NOOBS from the zip archive
 
 Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
 
@@ -35,11 +35,9 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 
 + Extract the files and keep the resulting Explorer/Finder window open.
 
-## Copying the files
+### Copying the files
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side:
-
-  ![copy 1](images/windows/copy1.png)
++ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
 
 + Select all the files from the *NOOBS* folder and drag them onto the SD card
 
@@ -48,7 +46,7 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 + Eject the SD card
 
 
-## Booting from NOOBS
+### Booting from NOOBS
 
 + Once the files have been copied over, insert the micro SD Card into your Raspberry Pi and then plug it into a power source.
 
