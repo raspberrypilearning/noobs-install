@@ -41,7 +41,7 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 
 + Select all the files from the *NOOBS* folder and drag them onto the SD card
 
-  ![copy 2](images/windows/copy2.png)
+  ![copy 2](images/copy2.png)
 
 + Eject the SD card
 
