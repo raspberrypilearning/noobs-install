@@ -4,9 +4,9 @@ It's likely that all your important files are in a directory on your SD card cal
 
 ## Backing up using removable storage
 
-If you have a USB flash drive or portable hard drive with enough storage, then this is the easiest method to back up your files.
+If you have a USB flash drive or portable hard drive with enough storage, then this is the easiest method of backing up your files.
 
-1. Insert your USB drive into one of your Pi's USB ports; it should be recognised straight away.
+1. Insert your USB drive into one of your Pi's USB ports. It should be recognised straight away.
 
   ![USB](images/backup/usb1.png)
 
@@ -23,8 +23,8 @@ If you can't copy the files over, it probably means you are using a USB drive th
 
 You're going to need your Raspberry Pi's IP address to copy files over a network.
 
-1. Boot up your Raspberry Pi, ensure it is connected to the network, and then open up a Terminal window.
-2. In the Terminal type:
+1. Boot up your Raspberry Pi, ensure it is connected to the network, and then open a Terminal window.
+2. In the Terminal, type:
 
   ```bash
   hostname -I
@@ -34,8 +34,8 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
 ### Linux and Mac instructions
 
-4. On your Linux or Mac computer, ensure you are connected to the **same** network as the Raspberry Pi, then open up a Terminal window.
-5. Now type the following into the Terminal, replacing the 10-digit IP address with the one you have taken from the Raspberry Pi:
+4. On your Linux or Mac computer, ensure you are connected to the **same** network as the Raspberry Pi, then open a Terminal window.
+5. Now type the following into the Terminal, replacing the ten-digit IP address with the one you have taken from the Raspberry Pi:
 
   ```bash
   rsync -av --exclude".*/" pi@192.168.1.111:/home/pi/ ~/RPi-backup
@@ -56,7 +56,7 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
   ![winscp](images/backup/winscp2.png)
 
-5. Double-click the file and then click on *Run*:
+5. Double-click the file and then click *Run*:
 
   ![winscp](images/backup/winscp3.png)
 
@@ -64,7 +64,7 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
   ![winscp](images/backup/winscp4.png)
 
-7. A warning will pop up, asking whether you trust the computer or not. Click on *Yes*:
+7. A warning will pop up, asking whether you trust the computer or not. Click *Yes*:
 
   ![winscp](images/backup/winscp5.png)
 
@@ -74,9 +74,9 @@ You're going to need your Raspberry Pi's IP address to copy files over a network
 
 ## Backing up by accessing the SD card on Linux
 
-If you are using a Linux machine, then you can copy the files directly from the SD card.
+If you are using a Linux machine, you can copy the files directly from the SD card.
 
-1. Shut down the Raspberry Pi, remove the micro SD card, and place it into an SD card adaptor. Then insert this into your machine.
+1. Shut down the Raspberry Pi, remove the micro SD card, and place it into an SD card adaptor. Insert this into your Linux machine.
 2. The screenshot below shows the SD card mounted on a machine running Ubuntu:
 
   ![SD](images/backup/SD1.png)
