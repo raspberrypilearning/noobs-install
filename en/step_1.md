@@ -41,7 +41,9 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 
 + Select all the files from the *NOOBS* folder and drag them onto the SD card.
 
-  ![copy 2](images/copy2.png)
+![windows copy](images/copy3.png)
+
+![macos copy](images/macos_copy.png)
 
 + Eject the SD card.
 
@@ -55,3 +57,10 @@ Next, you will need to extract the files from the NOOBS zip archive you download
 ![install](images/install.png)
 
 + Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
+
+![installing](images/installing.png)
+
++ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
+
+![installed](images/installed.png)
+
