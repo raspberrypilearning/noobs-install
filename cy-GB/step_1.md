@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Lawrlwytho NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Gan ddefnyddio NOOBS yw'r ffordd hawsaf i osod Raspbian ar eich cerdyn SD. I gael gafael ar gopi o NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Ewch i [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Tudalen lwytho i lawr](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Dylech weld blwch gyda dolen i'r ffeiliau NOOBS. Cliciwch ar y ddolen.
 
-![Click on NOOBS](images/click-noobs.png)
+![Cliciwch ar NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Yr opsiwn symlaf yw lawrlwytho archif zip y ffeiliau.
 
-![Download zip](images/download-zip.png)
+![Lawrlwythwch zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Fformatio'r Cerdyn SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Os yw'r cerdyn SD y byddwch chi am osod Raspbian ar hyn o bryd yn meddu ar fersiwn hŷn o Raspbian arno, efallai yr hoffech gefnogi'r ffeiliau o'r cerdyn yn gyntaf, gan y byddant yn cael eu trosysgrifio yn ystod y broses hon.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Ewch i wefan y Gymdeithas SD a lawrlwythwch [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) gyfer Windows neu Mac.
 
-+ Follow the instructions to install the software.
++ Dilynwch y cyfarwyddiadau i osod y meddalwedd.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Rhowch eich cerdyn SD i mewn i ddarllenydd cerdyn SD cyfrifiadur neu laptop a nodwch y llythyr gyrru a ddyrennir iddo ee `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Yn SD Formatter, dewiswch y llythyr gyrru ar gyfer eich cerdyn SD, a'i fformat.
 
-### Extracting NOOBS from the zip archive
+### Tynnu NOOBS o'r archif zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Nesaf, bydd angen i chi dynnu'r ffeiliau o'r archif zip NOOBS a'ch lawrlwythwyd o wefan y Mws Coch.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Ewch at eich ffolder *Lawrlwythwch* a darganfyddwch y ffeil zip rydych wedi'i lawrlwytho.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Detholwch y ffeiliau a chadw'r ffenestr Explorer / Finder canlyniadol ar agor.
 
-### Copying the files
+### Copïo'r ffeiliau
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Nawr agorwch ffenestr Explorer / Finder arall ac ewch i'r cerdyn SD. Y peth gorau yw gosod y ddwy ffenestr ochr yn ochr.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Dewiswch yr holl ffeiliau o ffolder *NOOBS* a'u llusgo ar y cerdyn SD.
 
-![windows copy](images/copy3.png)
+![copi ffenestri](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![copi macos](images/macos_copy.png)
 
-+ Eject the SD card.
++ Eithrwch y cerdyn SD.
 
-### Booting from NOOBS
+### Booting o NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Unwaith y bydd y ffeiliau wedi cael eu copïo drosodd, rhowch y Cerdyn SD micro i mewn i'ch Mws Coch, a chludwch y Pi i mewn i ffynhonnell bŵer.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Cynigir dewis i chi pan fydd y gosodwr wedi llwytho. Dylech wirio'r blwch ar gyfer **Raspbian**, ac yna cliciwch **Gosodwch**.
 
-![install](images/install.png)
+![gosod](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Cliciwch **Ydw** yn yr ymgom rhybuddio, ac yna eistedd yn ôl ac ymlacio. Bydd yn cymryd ychydig o amser, ond bydd Raspbian yn gosod.
 
-![installing](images/installing.png)
+![gosod](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Pan osodwyd Raspbian, cliciwch ar **OK** a bydd eich Mws Coch yn ailgychwyn a bydd Raspbian wedyn yn cychwyn.
 
-![installed](images/installed.png)
+![wedi'i osod](images/installed.png)
