@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Sťahovanie NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Použitie NOOBS je najjednoduchší spôsob nainštalovania Raspbian na vašu SD kartu. Ak chcete získať kópiu NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Navštívte [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Stránka na prevzatie](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Mali by ste vidieť rámček s odkazom na súbory NOOBS. Kliknite na odkaz.
 
-![Click on NOOBS](images/click-noobs.png)
+![Kliknite na NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Najjednoduchšou možnosťou je prevziať zip archív súborov.
 
-![Download zip](images/download-zip.png)
+![Stiahnuť zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Formátovanie karty SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Ak má SD karta, na ktorú chcete nainštalovať Raspbian, v súčasnosti staršiu verziu Raspbian, možno budete chcieť najskôr zálohovať súbory z karty, pretože budú počas tohto procesu prepísané.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Navštívte webovú stránku združenia SD a stiahnite si [SD formátovač 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pre systém Windows alebo Mac.
 
-+ Follow the instructions to install the software.
++ Pri inštalácii softvéru postupujte podľa pokynov.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Vložte kartu SD do čítačky kariet SD alebo počítača a poznačte si písmeno, ktoré je priradené, napr. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ V SD formátovači vyberte písmeno jednotky pre SD kartu a naformátujte ju.
 
-### Extracting NOOBS from the zip archive
+### Extrakcia NOOBS zo zip archívu
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Ďalej budete musieť extrahovať súbory z archívu zip NOOBS, ktorý ste stiahli z webovej stránky Raspberry Pi.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Prejdite do priečinka *načítania* a nájdite súbor, ktorý ste stiahli.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Extrahujte súbory a nechajte otvorené okno Explorer / Finder.
 
-### Copying the files
+### Kopírovanie súborov
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Teraz otvorte ďalšie okno Explorer / Finder a prejdite na kartu SD. Najlepšie je umiestniť dve okná vedľa seba.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Vyberte všetky súbory zo zložky *NOOBS* a presuňte ich na kartu SD.
 
 ![windows copy](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![kópia macos](images/macos_copy.png)
 
-+ Eject the SD card.
++ Vysuňte kartu SD.
 
-### Booting from NOOBS
+### Zavádzanie z NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Po skopírovaní súborov vložte kartu microSD do vášho Raspberry Pi a zapojte Pi do zdroja napájania.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Po načítaní inštalátora vám ponúkne možnosť výberu. Začiarknite políčko **Raspbian**a potom kliknite na **Install**.
 
-![install](images/install.png)
+![inštalovať](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Kliknite **Áno** v dialógovom okne varovanie, a potom sedieť a relaxovať. Bude to chvíľu trvať, ale Raspbian sa nainštaluje.
 
-![installing](images/installing.png)
+![inštalácia](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Keď bol Raspbian nainštalovaný, kliknite na **OK** a vaša Raspberry Pi sa reštartuje a Raspbian sa potom spustí.
 
-![installed](images/installed.png)
+![nainštalovaný](images/installed.png)
