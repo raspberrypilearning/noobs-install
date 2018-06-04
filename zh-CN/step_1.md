@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### 正在下载NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+使用NOOBS是在您的SD卡上安装Raspbian的最简单方法。 要获得NOOBS的副本：
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ 访问 [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![下载页面](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ 您应该看到一个带有NOOBS文件链接的框。 点击链接。
 
-![Click on NOOBS](images/click-noobs.png)
+![点击NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ 最简单的选择是下载文件的zip存档。
 
-![Download zip](images/download-zip.png)
+![下载zip](images/download-zip.png)
 
-### Formatting the SD Card
+### 格式化SD卡
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+如果您想要安装Raspbian的SD卡目前已经安装了较旧版本的Raspbian，则您可能希望首先备份卡上的文件，因为在此过程中它们将被覆盖。
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ 访问SD协会的网站并下载适用于Windows或Mac的 [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html)。
 
-+ Follow the instructions to install the software.
++ 按照说明安装软件。
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ 将SD卡插入计算机或笔记本电脑的SD卡读卡器，并记下分配给它的驱动器号，例如 `F：/`。
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ 在SD Formatter中，选择SD卡的驱动器号并格式化。
 
-### Extracting NOOBS from the zip archive
+### 从zip压缩文件中提取NOOBS
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+接下来，您将需要从您从Raspberry Pi网站下载的NOOBS zip存档中提取文件。
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ 转到您的 *下载* 文件夹并找到您下载的zip文件。
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ 提取文件并保持打开的结果浏览器/查找程序窗口。
 
-### Copying the files
+### 复制文件
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ 现在打开另一个Explorer / Finder窗口并导航到SD卡。 最好将两个窗口并排放置。
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ 从 *NOOBS* 文件夹中选择所有文件并将它们拖到SD卡上。
 
-![windows copy](images/copy3.png)
+![窗口复制](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![马科斯副本](images/macos_copy.png)
 
-+ Eject the SD card.
++ 弹出SD卡。
 
-### Booting from NOOBS
+### 从NOOBS启动
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ 一旦文件被复制完毕，将micro SD卡插入Raspberry Pi，然后将Pi插入电源。
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ 安装程序加载完成后，您将获得一个选择。 您应该勾选 **Raspbian**的框，然后单击 **Install**。
 
-![install](images/install.png)
+![安装](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ 在警告对话框中点击 **是** ，然后坐下放松。 这将需要一段时间，但Raspbian将安装。
 
-![installing](images/installing.png)
+![安装](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ 当安装Raspbian时，点击 **OK** ，你的Raspberry Pi将重新启动，然后Raspbian将启动。
 
-![installed](images/installed.png)
+![安装](images/installed.png)
