@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### S'està descarregant NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+L'ús de NOOBS és la manera més senzilla d'instal·lar Raspbian a la vostra targeta SD. Per agafar una còpia de NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Visita [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Pàgina de descàrregues](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Heu de veure una caixa amb un enllaç als fitxers NOOBS. Feu clic a l'enllaç.
 
-![Click on NOOBS](images/click-noobs.png)
+![Feu clic a NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ L'opció més senzilla és descarregar l'arxiu zip dels fitxers.
 
-![Download zip](images/download-zip.png)
+![Descarregueu zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Format de la targeta SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Si la targeta SD en què voleu instal·lar Raspbian actualment té una versió anterior de Raspbian, potser voldreu fer una còpia de seguretat dels fitxers de la targeta primer, ja que es sobreescriuran durant aquest procés.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Visiteu el lloc web de l'Associació SD i descarregueu [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) per a Windows o Mac.
 
-+ Follow the instructions to install the software.
++ Seguiu les instruccions per instal·lar el programari.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Introduïu la targeta SD al lector de targetes SD de l'ordinador o portàtil i anoteu la lletra de la unitat assignada, p. Ex., `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ En SD Formatter, seleccioneu la lletra d'unitat de la targeta SD i el format.
 
-### Extracting NOOBS from the zip archive
+### Extracció de NOOBS des de l'arxiu zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+A continuació, haurà d'extreure els fitxers de l'arxiu zip NOOBS que vau descarregar des del lloc web Raspberry Pi.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Aneu a la seva *Descàrregues* carpeta i trobar l'arxiu zip que ha descarregat.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Extraieu els fitxers i mantingueu obert la finestra resultant de l'Explorador / Cercador.
 
-### Copying the files
+### Còpia dels fitxers
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Ara obriu una altra finestra Explorer / Finder i navegueu a la targeta SD. És millor situar les dues finestres al costat de l'altre.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Seleccioneu tots els arxius des del *noobs* carpeta i arrossegar a la targeta SD.
 
-![windows copy](images/copy3.png)
+![copieu les finestres](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![còpia de macos](images/macos_copy.png)
 
-+ Eject the SD card.
++ Expulsa la targeta SD.
 
-### Booting from NOOBS
+### Arrencada des de NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Un cop copiats els fitxers, inseriu la targeta micro SD al Raspberry Pi i connecteu el Pi a una font d'alimentació.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Se us oferirà una opció quan l'instal·lador s'hagi carregat. Heu de marcar la casella de **Raspbian**i, a continuació, feu clic a **Instal·lar**.
 
-![install](images/install.png)
+![instal·lar](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Feu clic a **Sí** al diàleg d'advertència i, a continuació, situeu-vos i descanseu. Portarà un temps, però Raspbian s'instal·larà.
 
-![installing](images/installing.png)
+![instal·lació](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Quan Raspbian s'hagi instal·lat, feu clic a **acord** i el Raspberry Pi es reiniciarà i Raspbian s'iniciarà.
 
-![installed](images/installed.png)
+![instal·lat](images/installed.png)
