@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### NOOBS: n lataaminen
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+NOOBS: n käyttö on helpoin tapa asentaa Raspbian SD-kortille. Jotta saat kopion NOOBS: stä:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Käy [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Lataussivu](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Sinun pitäisi nähdä laatikko, jossa on linkki NOOBS-tiedostoihin. Napsauta linkkiä.
 
-![Click on NOOBS](images/click-noobs.png)
+![Napsauta NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Yksinkertaisin vaihtoehto on ladata tiedostojen zip-arkisto.
 
-![Download zip](images/download-zip.png)
+![Lataa zip](images/download-zip.png)
 
-### Formatting the SD Card
+### SD-kortin alustaminen
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Jos SD-kortti, johon haluat asentaa Raspbianin tällä hetkellä on vanhempi Raspbian-versio, voit halutessasi varmuuskopioida tiedostoja kortilta ensin, koska ne korvataan tämän prosessin aikana.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Käy SD Associationin verkkosivuilla ja lataa [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) Windowsille tai Macille.
 
-+ Follow the instructions to install the software.
++ Asenna ohjelmisto noudattamalla ohjeita.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Aseta SD-kortti tietokoneeseen tai kannettavan tietokoneen SD-kortinlukijaan ja kirjoita sille osoitetun aseman kirjain, esim. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Valitse SD Formatter -ohjelmassa SD-kortille aseman kirjain ja alusta se.
 
-### Extracting NOOBS from the zip archive
+### NOOBS: n purku zip-arkistosta
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Seuraavaksi sinun on purettava tiedostot NPSPS-arkistosta, jonka olet ladannut Raspberry Pi -sivustosta.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Siirry *Downloads* kansioon ja etsi lataamasi zip-tiedosto.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Pura tiedostot ja säilytä Resurssienhallinta / Etsijä-ikkuna auki.
 
-### Copying the files
+### Tiedostojen kopiointi
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Avaa nyt uusi Explorer / Finder-ikkuna ja siirry SD-kortille. On parasta sijoittaa kaksi ikkunaa vierekkäin.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Valitse kaikki tiedostot *NOOBS* -kansiosta ja vedä ne SD-kortille.
 
-![windows copy](images/copy3.png)
+![ikkunat kopioida](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopio](images/macos_copy.png)
 
-+ Eject the SD card.
++ Poista SD-kortti.
 
-### Booting from NOOBS
+### Käynnistys NOOBS: stä
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Kun tiedostot on kopioitu, aseta mikro-SD-kortti vadelmillesi Pi ja kytke Pi-liitin virtalähteeseen.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Sinulle tarjotaan valinnanvaraa, kun asennusohjelma on ladannut. Tarkista ruutu **Raspbian**ja valitse sitten **Asenna**.
 
-![install](images/install.png)
+![Asentaa](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Valitse varoitusikkunasta **Kyllä** ja istu sitten takaisin ja rentoudu. Se vie jonkin aikaa, mutta Raspbian asentaa.
 
-![installing](images/installing.png)
+![asennus](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Kun Raspbian on asennettu, valitse **OK** ja Raspberry Pi käynnistyy uudelleen ja Raspbian sitten käynnisty.
 
-![installed](images/installed.png)
+![asennetut](images/installed.png)
