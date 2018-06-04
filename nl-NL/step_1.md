@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### NOOBS downloaden
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Het gebruik van NOOBS is de gemakkelijkste manier om Raspbian op je SD-kaart te installeren. Om een ​​kopie van NOOBS te bemachtigen:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Ga naar [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Downloadpagina](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Je zou een vak moeten zien met een link naar de NOOBS-bestanden. Klik op de link.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klik op NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ De eenvoudigste optie is om het zip-archief van de bestanden te downloaden.
 
-![Download zip](images/download-zip.png)
+![Zip downloaden](images/download-zip.png)
 
-### Formatting the SD Card
+### De SD-kaart formatteren
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Als de SD-kaart waarop u wenst te installeren op Raspbian momenteel een oudere versie van Raspbian heeft, wilt u mogelijk eerst een back-up maken van de bestanden van de kaart, omdat deze tijdens dit proces worden overschreven.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Bezoek de website van de SD Association en download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) voor Windows of Mac.
 
-+ Follow the instructions to install the software.
++ Volg de instructies om de software te installeren.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Plaats uw SD-kaart in de computer of de SD-kaartlezer van uw laptop en noteer de stationsletter die eraan is toegewezen, bijvoorbeeld `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Selecteer in SD Formatter de stationsletter voor uw SD-kaart en formatteer deze.
 
-### Extracting NOOBS from the zip archive
+### NOOBS extraheren uit het zip-archief
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Vervolgens moet je de bestanden uit het NOOBS zip-archief halen dat je hebt gedownload van de Raspberry Pi-website.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Ga naar je *Downloads* map en vind het zipbestand dat je hebt gedownload.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Pak de bestanden uit en houd het resulterende Verkenner / Zoeker-venster open.
 
-### Copying the files
+### Kopiëren van de bestanden
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Open nu een ander Explorer / Finder-venster en navigeer naar de SD-kaart. Het is het beste om de twee vensters naast elkaar te plaatsen.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Selecteer alle bestanden uit de map *NOOBS* en sleep ze naar de SD-kaart.
 
-![windows copy](images/copy3.png)
+![Windows kopie](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopie](images/macos_copy.png)
 
-+ Eject the SD card.
++ Werp de SD-kaart uit.
 
-### Booting from NOOBS
+### Opstarten vanuit NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Nadat de bestanden zijn gekopieerd, plaatst u de micro SD-kaart in uw Raspberry Pi en sluit u de Pi aan op een voedingsbron.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ U krijgt een keuze wanneer het installatieprogramma is geladen. Vink het vakje aan voor **Raspbian**en klik vervolgens op **Installeren**.
 
-![install](images/install.png)
+![installeren](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Klik op **Ja** in het waarschuwingsvenster en leun achterover en ontspan. Het zal een tijdje duren, maar Raspbian zal installeren.
 
-![installing](images/installing.png)
+![installeren](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Wanneer Raspbian is geïnstalleerd, klikt u op **OK** en uw Raspberry Pi wordt opnieuw opgestart en Raspbian wordt vervolgens opgestart.
 
-![installed](images/installed.png)
+![geïnstalleerd](images/installed.png)
