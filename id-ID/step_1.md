@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Mengunduh NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Menggunakan NOOBS adalah cara termudah untuk menginstal Raspbian pada kartu SD Anda. Untuk mendapatkan salinan NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Kunjungi [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Halaman unduhan](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Anda akan melihat kotak dengan tautan ke file NOOBS. Klik pada link.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klik pada NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Opsi paling sederhana adalah mengunduh arsip zip file.
 
-![Download zip](images/download-zip.png)
+![Unduh zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Memformat Kartu SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Jika kartu SD yang Anda inginkan untuk menginstal Raspbian saat ini memiliki versi Raspbian yang lebih lama di atasnya, Anda mungkin ingin mencadangkan file dari kartu terlebih dahulu, karena kartu tersebut akan ditimpa selama proses ini.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Kunjungi situs web SD Association dan unduh [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) untuk Windows atau Mac.
 
-+ Follow the instructions to install the software.
++ Ikuti instruksi untuk menginstal perangkat lunak.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Masukkan kartu SD Anda ke komputer atau pembaca kartu SD laptop dan catat huruf drive yang dialokasikan padanya, misalnya `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Di dalam SD Formatter, pilih huruf drive untuk kartu SD Anda, dan formatlah.
 
-### Extracting NOOBS from the zip archive
+### Mengekstrak NOOBS dari arsip zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Selanjutnya, Anda perlu mengekstrak file dari arsip zip NOOBS yang Anda unduh dari situs web Raspberry Pi.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Buka folder *Downloads* dan temukan file zip yang Anda unduh.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Ekstrak file dan biarkan jendela Explorer / Finder terbuka.
 
-### Copying the files
+### Menyalin file
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Sekarang buka jendela Explorer / Finder lain dan arahkan ke kartu SD. Yang terbaik adalah memposisikan dua jendela berdampingan.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Pilih semua file dari folder *NOOBS* dan seret ke kartu SD.
 
-![windows copy](images/copy3.png)
+![salinan jendela](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![salinan macos](images/macos_copy.png)
 
-+ Eject the SD card.
++ Keluarkan kartu SD.
 
-### Booting from NOOBS
+### Booting dari NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Setelah file-file tersebut disalin, masukkan Micro SD Card ke Raspberry Pi Anda, dan tancapkan Pi ke sumber daya.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Anda akan ditawari pilihan ketika installer telah dimuat. Anda harus mencentang kotak untuk **Raspbian**, lalu klik **Pasang**.
 
-![install](images/install.png)
+![memasang](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Klik **Ya** pada dialog peringatan, lalu duduk dan rileks. Ini akan memakan waktu cukup lama, tetapi Raspbian akan menginstal.
 
-![installing](images/installing.png)
+![menginstal](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Ketika Raspbian telah diinstal, klik **OK** dan Raspberry Pi Anda akan restart dan Raspbian akan boot.
 
-![installed](images/installed.png)
+![diinstal](images/installed.png)
