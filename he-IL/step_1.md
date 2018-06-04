@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### מוריד את NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+באמצעות NOOBS היא הדרך הקלה ביותר להתקין Raspbian על כרטיס SD שלך. כדי לקבל עותק של NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ בקר [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![דף הורדות](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ אתה אמור לראות את הקופסה עם קישור לקובצי NOOBS. לחץ על הקישור.
 
-![Click on NOOBS](images/click-noobs.png)
+![לחץ על NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ האפשרות הפשוטה ביותר היא להוריד את ארכיון ה- zip של הקבצים.
 
-![Download zip](images/download-zip.png)
+![הורד zip](images/download-zip.png)
 
-### Formatting the SD Card
+### עיצוב כרטיס SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+אם כרטיס ה- SD שבו אתה רוצה להתקין Raspbian כרגע יש גרסה ישנה יותר של Raspbian על זה, ייתכן שתרצה לגבות את הקבצים מן הכרטיס הראשון, כפי שהם יהיו מוחלפים במהלך תהליך זה.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ בקר באתר האגודה של SD ולהוריד [SD מעצב 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) עבור Windows או Mac.
 
-+ Follow the instructions to install the software.
++ בצע את ההוראות כדי להתקין את התוכנה.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ הכנס את כרטיס ה- SD למחשב או לקורא כרטיס ה- SD של המחשב הנייד וערוך הערה על אות הכונן שהוקצתה לו, לדוגמה `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ ב- SD Formatter, בחר את אות הכונן עבור כרטיס ה- SD שלך, ועצב אותו.
 
-### Extracting NOOBS from the zip archive
+### מחלץ NOOBS מארכיון zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+לאחר מכן, תצטרך לחלץ את הקבצים מארכיון NOOBS zip שהורדת מהאתר פטל פספרי.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ עבור אל התיקיה *הורדות* ומצא את קובץ ה- zip שהורדת.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ חלץ את הקבצים ולשמור את החלון Explorer / Finder וכתוצאה מכך פתוח.
 
-### Copying the files
+### העתקת הקבצים
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ כעת פתח חלון Explorer / Finder נוסף ונווט אל כרטיס ה- SD. עדיף למקם את שני החלונות זה לצד זה.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ בחר את כל הקבצים מהתיקיה *NOOBS* וגרור אותם אל כרטיס ה- SD.
 
-![windows copy](images/copy3.png)
+![חלונות עותק](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![מאקוס להעתיק](images/macos_copy.png)
 
-+ Eject the SD card.
++ הוצא את כרטיס ה- SD.
 
-### Booting from NOOBS
+### אתחול מ- NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ לאחר הקבצים הועתקו מעל, הכנס את כרטיס מיקרו SD לתוך שלך Pi Rasberry, וחבר את פי לתוך מקור כוח.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ תוצע לך בחירה כאשר תוכנית ההתקנה נטענת. עליך לבדוק את התיבה עבור **Raspbian**ולאחר מכן לחץ על **התקן**.
 
-![install](images/install.png)
+![להתקין](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ לחץ על **כן** בתיבת הדו-שיח להזהרה ולאחר מכן נשען לאחור והירגע. זה ייקח קצת זמן, אבל Raspbian יתקין.
 
-![installing](images/installing.png)
+![התקנה](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ כאשר Raspbian הותקן, לחץ על **אישור** ו Pspberry Pi שלך יופעל מחדש Raspbian ואז אתחול.
 
-![installed](images/installed.png)
+![מוּתקָן](images/installed.png)
