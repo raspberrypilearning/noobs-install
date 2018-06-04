@@ -1,17 +1,17 @@
 ---
-title: Installing Raspbian with NOOBS
-hero_image: images/banner.png
-description: A guide on how to install Raspbian on an SD card using NOOBS, from any platform
+title: Instaliranje Raspbian s NOOBS
+hero_image: slike / banner.png
+description: Vodič o tome kako instalirati Raspbian na SD karticu pomoću NOOBS, s bilo koje platforme
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: red
+theme: Crvena
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: kreator, dizajn-0, programiranje-0, fiz-comp-0, proizvodnja-0, community-0
 interests: ''
-technologies: rpi, physical computing, python
+technologies: rpi, fizičko računanje, python
 site_areas: ''
 steps:
   - 
-    title: Introduction
+    title: Uvod
