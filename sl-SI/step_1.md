@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Prenos NOOBS-a
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Uporaba NOOBS-a je najlažji način namestitve programa Raspbian na kartico SD. Za pridobitev kopije NOOBS-a:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Obiščite [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Stran za prenos](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Videti bi morali polje s povezavo do datotek NOOBS. Kliknite povezavo.
 
-![Click on NOOBS](images/click-noobs.png)
+![Kliknite na NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Najpreprostejša možnost je prenesti zip arhiv datotek.
 
-![Download zip](images/download-zip.png)
+![Prenesi zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Oblikovanje kartice SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Če SD kartica, na kateri želite namestiti Raspbian, trenutno vsebuje starejšo različico programa Raspbian, boste morda želeli najprej varnostno kopirati datoteke s kartice, saj bodo med tem postopkom prepisani.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Obiščite spletno stran SD Association in prenesite [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) za Windows ali Mac.
 
-+ Follow the instructions to install the software.
++ Sledite navodilom za namestitev programske opreme.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Vstavite kartico SD v bralnik pomnilniških kartic računalnika ali laptopa in zabeležite črko pogona, ki ji je dodeljena, npr. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ V formatu SD Formatter izberite črko pogona za kartico SD in jo formatirajte.
 
-### Extracting NOOBS from the zip archive
+### Izvleček NOOBS iz zip arhiva
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Nato boste morali iz datoteke NOOBS zip arhivirati datoteke, ki ste jih prenesli s spletne strani Raspberry Pi.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Pojdite v mapo *Prenosov* in poiščite datoteko zip, ki ste jo prenesli.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Izvlecite datoteke in odprite okno Explorer / Finder.
 
-### Copying the files
+### Kopiranje datotek
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Zdaj odprite novo okno Explorer / Finder in se pomaknite do kartice SD. Najbolje je, da oba okna namestite drug ob drugem.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Izberite vse datoteke iz mape *NOOBS* in jih povlecite na kartico SD.
 
-![windows copy](images/copy3.png)
+![okno kopiranje](images/copy3.png)
 
 ![macos copy](images/macos_copy.png)
 
-+ Eject the SD card.
++ Izvržite SD kartico.
 
-### Booting from NOOBS
+### Booting iz NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Ko so datoteke kopirane, vstavite kartico micro SD v vašo Raspberry Pi in priključite Pi v vir napajanja.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Ponudnik vam bo ponudil izbiro, ko bo nalagal namestitveni program. Potrdite polje za **Raspbian**in nato kliknite **Namesti**.
 
-![install](images/install.png)
+![namestite](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ V opozorilnem pogovornem oknu kliknite **Da** in nato sedite in se sprostite. To bo trajalo nekaj časa, toda Raspbian bo namestil.
 
-![installing](images/installing.png)
+![nameščanje](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Ko je bil nameščen program Raspbian, kliknite **OK** in se bo vaš Raspberry Pi znova zagnal, nato pa se bo razširil program Raspbian.
 
-![installed](images/installed.png)
+![nameščen](images/installed.png)
