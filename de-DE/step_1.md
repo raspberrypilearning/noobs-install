@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Herunterladen von NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Die Verwendung von NOOBS ist der einfachste Weg, um Raspbian auf Ihrer SD-Karte zu installieren. Um eine Kopie von NOOBS zu bekommen:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Besuchen Sie [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Downloads Seite](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Sie sollten eine Box mit einem Link zu den NOOBS-Dateien sehen. Klick auf den Link.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klicke auf NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Am einfachsten ist es, das Zip-Archiv der Dateien herunterzuladen.
 
-![Download zip](images/download-zip.png)
+![Zip herunterladen](images/download-zip.png)
 
-### Formatting the SD Card
+### Formatieren der SD-Karte
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Wenn auf der SD-Karte, auf der Sie Raspbian installieren möchten, derzeit eine ältere Version von Raspbian installiert ist, möchten Sie möglicherweise zuerst die Dateien von der Karte sichern, da sie während dieses Vorgangs überschrieben werden.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Besuchen Sie die Website der SD Association und laden Sie [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) für Windows oder Mac herunter.
 
-+ Follow the instructions to install the software.
++ Folgen Sie den Anweisungen, um die Software zu installieren.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Legen Sie Ihre SD-Karte in den SD-Kartenleser des Computers oder Laptops ein und notieren Sie sich den Laufwerksbuchstaben, z. B. `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Wählen Sie in SD Formatter den Laufwerksbuchstaben für Ihre SD-Karte und formatieren Sie sie.
 
-### Extracting NOOBS from the zip archive
+### Extrahieren von NOOBS aus dem Zip-Archiv
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Als nächstes müssen Sie die Dateien aus dem NOOBS-ZIP-Archiv extrahieren, das Sie von der Raspberry Pi-Website heruntergeladen haben.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Gehen Sie zu Ihrem Ordner " *Downloads* " und suchen Sie die heruntergeladene ZIP-Datei.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Extrahieren Sie die Dateien und halten Sie das resultierende Explorer / Finder-Fenster geöffnet.
 
-### Copying the files
+### Kopieren der Dateien
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Öffnen Sie nun ein anderes Explorer / Finder-Fenster und navigieren Sie zur SD-Karte. Am besten positionieren Sie die beiden Fenster nebeneinander.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Wählen Sie alle Dateien aus dem Ordner *NOOBS* und ziehen Sie sie auf die SD-Karte.
 
-![windows copy](images/copy3.png)
+![Windows kopieren](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopieren](images/macos_copy.png)
 
-+ Eject the SD card.
++ Werfen Sie die SD-Karte aus.
 
-### Booting from NOOBS
+### Booten von NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Sobald die Dateien kopiert wurden, legen Sie die microSD-Karte in Ihren Raspberry Pi ein und stecken Sie den Pi in eine Stromquelle.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Ihnen wird eine Auswahl angeboten, wenn das Installationsprogramm geladen wurde. Sie sollten das Kontrollkästchen für **Raspbian**aktivieren und dann auf **Installieren**klicken.
 
-![install](images/install.png)
+![Installieren](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Klicken Sie im Warndialog auf **Ja** , und lehnen Sie sich zurück und entspannen Sie sich. Es wird eine Weile dauern, aber Raspbian wird installiert.
 
-![installing](images/installing.png)
+![installieren](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Wenn Raspbian installiert wurde, klicken Sie auf **OK** und Ihr Raspberry Pi wird neu gestartet und Raspbian wird dann hochfahren.
 
-![installed](images/installed.png)
+![Eingerichtet](images/installed.png)
