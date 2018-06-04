@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Tải xuống NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Sử dụng NOOBS là cách dễ nhất để cài đặt Raspbian trên thẻ SD của bạn. Để giữ một bản sao của NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Truy cập [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Trang tải xuống](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Bạn sẽ thấy một hộp có liên kết đến các tệp NOOBS. Nhấp vào đường dẫn.
 
-![Click on NOOBS](images/click-noobs.png)
+![Nhấp vào NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Tùy chọn đơn giản nhất là tải xuống kho lưu trữ zip của các tệp.
 
-![Download zip](images/download-zip.png)
+![Tải xuống mã zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Định dạng thẻ SD
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Nếu thẻ SD mà bạn muốn cài đặt Raspbian hiện có phiên bản cũ hơn của Raspbian, bạn có thể muốn sao lưu các tệp từ thẻ trước, vì chúng sẽ bị ghi đè trong quá trình này.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Truy cập trang web của Hiệp hội SD và tải xuống [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) cho Windows hoặc Mac.
 
-+ Follow the instructions to install the software.
++ Làm theo hướng dẫn để cài đặt phần mềm.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Lắp thẻ SD của bạn vào đầu đọc thẻ SD của máy tính hoặc máy tính xách tay và ghi chú ký tự ổ đĩa được cấp cho nó, ví dụ: `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ Trong SD Formatter, chọn ký tự ổ đĩa cho thẻ SD của bạn và định dạng nó.
 
-### Extracting NOOBS from the zip archive
+### Trích xuất NOOBS từ kho lưu trữ zip
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Tiếp theo, bạn sẽ cần giải nén các tệp từ kho lưu trữ zip NOOBS mà bạn đã tải xuống từ trang web Raspberry Pi.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Chuyển tới thư mục *Tải xuống* của bạn và tìm tệp zip bạn đã tải xuống.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Giải nén các tập tin và giữ cửa sổ Explorer / Finder kết quả mở ra.
 
-### Copying the files
+### Sao chép các tập tin
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Bây giờ mở một cửa sổ Explorer / Finder khác và điều hướng đến thẻ SD. Tốt nhất nên đặt hai cửa sổ cạnh nhau.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Chọn tất cả các tệp từ thư mục *NOOBS* và kéo chúng vào thẻ SD.
 
 ![windows copy](images/copy3.png)
 
 ![macos copy](images/macos_copy.png)
 
-+ Eject the SD card.
++ Đẩy thẻ SD ra.
 
-### Booting from NOOBS
+### Khởi động từ NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Một khi các tập tin đã được sao chép, chèn thẻ micro SD vào Raspberry Pi của bạn, và cắm Pi vào nguồn điện.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Bạn sẽ được cung cấp một lựa chọn khi trình cài đặt đã được tải. Bạn nên chọn hộp cho **Raspbian**, sau đó bấm **Cài đặt**.
 
-![install](images/install.png)
+![cài đặt, dựng lên](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Nhấp vào **Có** tại hộp thoại cảnh báo, sau đó ngồi lại và thư giãn. Nó sẽ mất một lúc, nhưng Raspbian sẽ cài đặt.
 
-![installing](images/installing.png)
+![cài đặt](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Khi Raspbian đã được cài đặt, nhấp vào **OK** và Raspberry Pi của bạn sẽ khởi động lại và Raspbian sau đó sẽ khởi động.
 
-![installed](images/installed.png)
+![Cài đặt](images/installed.png)
