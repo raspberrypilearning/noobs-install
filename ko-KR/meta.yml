@@ -1,17 +1,17 @@
 ---
-title: Installing Raspbian with NOOBS
-hero_image: images/banner.png
-description: A guide on how to install Raspbian on an SD card using NOOBS, from any platform
+title: 누스와 함께 Raspbian 설치하기
+hero_image: images / banner.png
+description: NOOBS를 사용하여 모든 플랫폼에서 SD 카드에 Raspbian을 설치하는 방법에 대한 가이드
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: red
+theme: 빨간
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 작성자, 디자인 -0, 프로그래밍 -0, phys-comp-0, 제조 -0, 커뮤니티 -0
 interests: ''
-technologies: rpi, physical computing, python
+technologies: rpi, 물리적 컴퓨팅, python
 site_areas: ''
 steps:
   - 
-    title: Introduction
+    title: 소개
