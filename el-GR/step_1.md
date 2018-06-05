@@ -2,15 +2,15 @@
 
 Η χρήση του NOOBS είναι ο ευκολότερος τρόπος για να εγκαταστήσετε το Raspbian στην κάρτα SD σας. Για να πάρετε ένα αντίγραφο του NOOBS:
 
-+ Επισκεφθείτε [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Επισκεφθείτε το [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Σελίδα λήψεων](images/downloads-page.png)
 
-+ Θα πρέπει να δείτε ένα πλαίσιο με σύνδεσμο στα αρχεία NOOBS. Κάντε κλικ στο σύνδεσμο.
++ Θα πρέπει να δείτε ένα πλαίσιο με σύνδεσμο στα αρχεία του NOOBS. Κάντε κλικ στο σύνδεσμο.
 
 ![Κάντε κλικ στο NOOBS](images/click-noobs.png)
 
-+ Η πιο απλή επιλογή είναι να κάνετε λήψη του αρχείου zip των αρχείων.
++ Η πιο απλή επιλογή είναι να κάνετε λήψη του αρχείου zip.
 
 ![Λήψη zip](images/download-zip.png)
 
