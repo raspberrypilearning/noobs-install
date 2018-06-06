@@ -10,19 +10,19 @@ De makkelijkste manier om Raspbian op je SD-kaart te installeren is door NOOBS t
 
 ![Klik op NOOBS](images/click-noobs.png)
 
-+ De eenvoudigste optie is om het zip-archief van de bestanden te downloaden.
++ De meest eenvoudige keuze is het downloaden van het zip-bestand.
 
 ![Zip downloaden](images/download-zip.png)
 
 ### De SD-kaart formatteren
 
-Als de SD-kaart waarop u wenst te installeren op Raspbian momenteel een oudere versie van Raspbian heeft, wilt u mogelijk eerst een back-up maken van de bestanden van de kaart, omdat deze tijdens dit proces worden overschreven.
+Als er op de SD-kaart, waarop je Raspbian wilt installeren, al een oudere versie van Raspbian staat, wil je misschien eerst een backup maken van de bestanden van de kaart, omdat die tijdens het installeren worden overschreven.
 
-+ Bezoek de website van de SD Association en download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) voor Windows of Mac.
++ Bezoek de website van 'SD Association' en download de [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) voor Windows of Mac.
 
-+ Volg de instructies om de software te installeren.
++ Om de software te installeren volg je de instructies op.
 
-+ Plaats uw SD-kaart in de computer of de SD-kaartlezer van uw laptop en noteer de stationsletter die eraan is toegewezen, bijvoorbeeld `F: /`.
++ Doe de SD-kaart in de computer of SD-kaartlezer en onthou de stationsletter die eraan wordt toegekend, bijvoorbeeld `F:/`.
 
 + Selecteer in SD Formatter de stationsletter voor uw SD-kaart en formatteer deze.
 
