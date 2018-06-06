@@ -24,19 +24,19 @@ Als er op de SD-kaart, waarop je Raspbian wilt installeren, al een oudere versie
 
 + Doe de SD-kaart in de computer of SD-kaartlezer en onthou de stationsletter die eraan wordt toegekend, bijvoorbeeld `F:/`.
 
-+ Selecteer in SD Formatter de stationsletter voor uw SD-kaart en formatteer deze.
++ Selecteer in SD Formatter de stationsletter van de SD-kaart en formatteer die.
 
-### NOOBS extraheren uit het zip-archief
+### NOOBS uit het zip-bestand halen
 
-Vervolgens moet je de bestanden uit het NOOBS zip-archief halen dat je hebt gedownload van de Raspberry Pi-website.
+Nu moeten de bestanden uit het NOOBS zip-bestand, die je hebt gedownload van de Raspberry Pi website, worden uitgepakt.
 
-+ Ga naar je *Downloads* map en vind het zipbestand dat je hebt gedownload.
++ Ga naar map *Downloads* en zoek het zip-bestand dat je hebt gedownload.
 
-+ Pak de bestanden uit en houd het resulterende Verkenner / Zoeker-venster open.
++ Pak de bestanden uit en houd het Verkenner/Finder-venster open.
 
 ### Kopiëren van de bestanden
 
-+ Open nu een ander Explorer / Finder-venster en navigeer naar de SD-kaart. Het is het beste om de twee vensters naast elkaar te plaatsen.
++ Open nu een ander Verkenner/Finder-venster en navigeer naar de SD-kaart. Het is het beste om de twee vensters naast elkaar te zetten.
 
 + Selecteer alle bestanden uit de map *NOOBS* en sleep ze naar de SD-kaart.
 
@@ -44,17 +44,17 @@ Vervolgens moet je de bestanden uit het NOOBS zip-archief halen dat je hebt gedo
 
 ![macos kopie](images/macos_copy.png)
 
-+ Werp de SD-kaart uit.
++ Verwijder de SD-kaart.
 
 ### Opstarten vanuit NOOBS
 
-+ Nadat de bestanden zijn gekopieerd, plaatst u de micro SD-kaart in uw Raspberry Pi en sluit u de Pi aan op een voedingsbron.
++ Nadat de bestanden zijn gekopieerd, plaats je de micro SD-kaart in de Raspberry Pi en zet je stroom op de Pi.
 
-+ U krijgt een keuze wanneer het installatieprogramma is geladen. Vink het vakje aan voor **Raspbian**en klik vervolgens op **Installeren**.
++ Als het installatieprogramma is geladen krijg je een keuze. Vink het vakje aan voor **Raspbian**en klik dan op **Install**.
 
 ![installeren](images/install.png)
 
-+ Klik op **Ja** in het waarschuwingsvenster en leun achterover en ontspan. Het zal een tijdje duren, maar Raspbian zal installeren.
++ Klik op **Yes** in het waarschuwingsvenster, leun achterover en ontspan. Het zal een tijdje duren, maar Raspbian zal installeren.
 
 ![installeren](images/installing.png)
 
