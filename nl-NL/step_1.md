@@ -1,6 +1,6 @@
 ### NOOBS downloaden
 
-Het gebruik van NOOBS is de gemakkelijkste manier om Raspbian op je SD-kaart te installeren. Om een ​​kopie van NOOBS te bemachtigen:
+De makkelijkste manier om Raspbian op je SD-kaart te installeren is door NOOBS te gebruiken. Om een ​​kopie van NOOBS te krijgen:
 
 + Ga naar [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
