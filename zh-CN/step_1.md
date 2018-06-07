@@ -1,22 +1,22 @@
-### 正在下载NOOBS
+### 下载NOOBS
 
-使用NOOBS是在您的SD卡上安装Raspbian的最简单方法。 要获得NOOBS的副本：
+将Raspbian安装到SD卡上的最简单的方法是使用NOOBS。 通过下面的步骤下载NOOBS：
 
 + 访问 [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![下载页面](images/downloads-page.png)
 
-+ 您应该看到一个带有NOOBS文件链接的框。 点击链接。
++ 您应该看到一个带有NOOBS文件链接的框。 点击该链接。
 
 ![点击NOOBS](images/click-noobs.png)
 
-+ 最简单的选择是下载文件的zip存档。
++ 最简单的选择是下载zip格式的文件。
 
 ![下载zip](images/download-zip.png)
 
 ### 格式化SD卡
 
-如果您想要安装Raspbian的SD卡目前已经安装了较旧版本的Raspbian，则您可能希望首先备份卡上的文件，因为在此过程中它们将被覆盖。
+如果您想要安装Raspbian的SD卡已经安装了旧版本的Raspbian，那么您可能需要先备份卡上的文件，因为格式化将覆盖原有文件。
 
 + 访问SD协会的网站并下载适用于Windows或Mac的 [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html)。
 
