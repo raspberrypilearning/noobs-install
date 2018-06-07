@@ -42,7 +42,7 @@
 
 ![窗口复制](images/copy3.png)
 
-![马科斯副本](images/macos_copy.png)
+![macos复制](images/macos_copy.png)
 
 + 弹出SD卡。
 
@@ -56,8 +56,8 @@
 
 + 在警告对话框中点击 **是** ，然后就不用管了。 Raspbian安装需要一段时间。
 
-![安装](images/installing.png)
+![安装中](images/installing.png)
 
-+ 当安装Raspbian时，点击 **OK** ，你的Raspberry Pi将重新启动，然后Raspbian将启动。
++ 当Raspbian安装完成后，点击 **OK** ，你的树莓派将会重新启动，Raspbian将会启动运行。
 
-![安装](images/installed.png)
+![安装完成](images/installed.png)
