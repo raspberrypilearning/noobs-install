@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### NOOBS ڈاؤن لوڈ کریں
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+NOOBS کا استعمال کرتے ہوئے آپ کے ایسڈی کارڈ پر Raspbian نصب کرنے کا سب سے آسان طریقہ ہے. NOOBS کی ایک کاپی پکڑنے کے لۓ:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)ملاحظہ کریں
 
-![Downloads page](images/downloads-page.png)
+![ڈاؤن لوڈ صفحہ](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ آپ کو NOOBS فائلوں کے ساتھ ایک باکس دیکھا جانا چاہئے. لنک پر کلک کریں.
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS پر کلک کریں](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ فائلوں کی زپ آرکائیو ڈاؤن لوڈ کرنے کا سب سے آسان اختیار ہے.
 
-![Download zip](images/download-zip.png)
+![زپ ڈاؤن لوڈ کریں](images/download-zip.png)
 
-### Formatting the SD Card
+### ایسڈی کارڈ کو تشکیل دے رہا ہے
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+اگر ایسڈی کارڈ جس پر آپ Raspbian انسٹال کرنا چاہتے ہیں اس وقت فی الحال Raspbian کے ایک پرانے ورژن ہے، آپ کو پہلے سے کارڈ کی فائلیں بیک اپ کرنا چاہتے ہیں، کیونکہ وہ اس عمل کے دوران لکھے جائیں گے.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ ایسڈی ایسوسی ایشن کی ویب سائٹ ملاحظہ کریں اور ونڈوز یا میک کیلئے [SD فارمیٹ 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) ڈاؤن لوڈ کریں.
 
-+ Follow the instructions to install the software.
++ سافٹ ویئر انسٹال کرنے کے لئے ہدایات پر عمل کریں.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ اپنا ایسڈی کارڈ کمپیوٹر یا لیپ ٹاپ کے ایسڈی کارڈ ریڈر میں درج کریں اور اس کو مختص کردہ ڈرائیو خط کا ایک نوٹ بنائیں، مثال کے طور پر `F: /`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ ایسڈی فارمیٹ میں، اپنے ایسڈی کارڈ کیلئے ڈرائیو کا خط منتخب کریں، اور اس کی شکل دیں.
 
-### Extracting NOOBS from the zip archive
+### زپ آرکائیو سے NOOBS نکالنا
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+اگلا، آپ کو Raspberry Pi ویب سائٹ سے ڈاؤن لوڈ کردہ NOOBS زپ آرکائیو سے فائلوں کو نکالنے کی ضرورت ہوگی.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ اپنے *ڈاؤن لوڈز* فولڈر پر جائیں اور آپ کو ڈاؤن لوڈ </em> زپ فائل کو تلاش کریں.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ فائلیں نکالیں اور نتیجے میں ایکسپلورر / فائنڈر کھڑکی کو کھلا رکھیں.
 
-### Copying the files
+### فائلوں کاپی کرنے
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ اب ایک اور ایکسپلورر / فائنڈر ونڈو کھولیں اور ایسڈی کارڈ پر جائیں. دونوں طرف ونڈوز کی طرف کی طرف اشارہ کرنا بہتر ہے.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ *NOOBS* فولڈر کی تمام فائلوں کو منتخب کریں اور انہیں ایسڈی کارڈ پر ڈرا دیں.
 
-![windows copy](images/copy3.png)
+![ونڈو کاپی](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![میکس کاپی](images/macos_copy.png)
 
-+ Eject the SD card.
++ ایسڈی کارڈ کو نکال دیں.
 
-### Booting from NOOBS
+### NOOBS سے بوٹنگ
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ ایک بار جب فائلوں کو کاپی کیا گیا ہے تو، مائیکرو ایسڈی کارڈ کو اپنی رسبری پائی میں ڈالیں، اور پی آئی پی طاقتور ذریعہ میں داخل کریں.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ آپ کو ایک انتخاب پیش کیا جائے گا جب انسٹالر لوڈ ہو چکا ہے. آپ کو **Raspbian**کے لئے باکس چیک کرنا چاہئے، اور پھر **نصب کریں پر کلک کریں**.
 
-![install](images/install.png)
+![انسٹال کریں](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ کلک کریں **ہاں** انتباہی ڈائیلاگ میں، اور پھر واپس بیٹھو اور آرام کرو. یہ تھوڑی دیر لگے گی، لیکن Raspbian انسٹال کریں گے.
 
-![installing](images/installing.png)
+![انسٹال کرنا](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ جب رسسپن انسٹال کیا گیا ہے تو، **ٹھیک ہے پر کلک کریں** اور آپ کی رسبری پائی دوبارہ شروع کردیں گی اور Raspbian پھر بوٹ کریں گے.
 
-![installed](images/installed.png)
+![انسٹال](images/installed.png)
