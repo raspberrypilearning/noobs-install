@@ -1,16 +1,16 @@
 ---
 title: Установка Raspbian с помощью NOOBS
-hero_image: Изображения / banner.png
-description: Руководство по установке Raspbian на SD-карте с использованием NOOBS с любой платформы
+hero_image: images/banner.png
+description: Руководство по установке Raspbian на SD-карту с использованием NOOBS для любой платформы
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: красный
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: создатель, дизайн-0, программирование-0, физика-комп-0, производство-0, сообщество-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi, физические вычисления, python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
