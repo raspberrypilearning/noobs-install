@@ -1,17 +1,17 @@
 ---
 title: Inštalácia Raspbian s NOOBS
-hero_image: images / banner.png
-description: Sprievodca inštaláciou Raspbian na SD kartu pomocou NOOBS z ľubovoľnej platformy
+hero_image: images/banner.png
+description: Návod ako nainštalovať Raspbian na SD kartu pomocou NOOBS z ľubovoľnej platformy
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: červená
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: tvorca, dizajn-0, programovanie-0, phys-comp-0, výroba-0, komunita-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi, fyzické výpočty, python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
-    title: úvod
+    title: Úvod
