@@ -36,7 +36,7 @@ Successivamente, sarà necessario estrarre i file dall'archivio zip NOOBS scaric
 
 ### Copia dei file
 
-+ Ora apri un'altra finestra Explorer / Finder e vai alla scheda SD. È meglio posizionare le due finestre una accanto all'altra.
++ Ora, apri un'altra finestra Explorer / Finder e vai alla scheda SD. È meglio posizionare le due finestre una accanto all'altra.
 
 + Seleziona tutti i file dalla cartella *NOOBS* e trascinali sulla scheda SD.
 
@@ -48,16 +48,16 @@ Successivamente, sarà necessario estrarre i file dall'archivio zip NOOBS scaric
 
 ### Avvio da NOOBS
 
-+ Una volta copiati i file, inserisci la micro SD Card nel tuo Raspberry Pi e inserisci il Pi in una fonte di alimentazione.
++ Una volta copiati i file, inserisci la micro SD Card nel tuo Raspberry Pi e collega il Pi in una fonte di alimentazione.
 
 + Ti verrà offerta una scelta quando il programma di installazione è stato caricato. È necessario selezionare la casella per **Raspbian**, quindi fare clic su **Installa**.
 
 ![installare](images/install.png)
 
-+ Clicca **Sì** alla finestra di avviso, e poi sedersi e rilassarsi. Ci vorrà un po ', ma Raspbian si installerà.
++ Clicca **Sì** alla finestra di avviso, siediti e rilassati. Ci vorrà un po ', ma Raspbian si installerà.
 
 ![installazione](images/installing.png)
 
-+ Quando è stato installato Raspbian, clicca **OK** e il vostro Raspberry Pi si riavvierà e Raspbian poi avviarsi.
++ Una volta completata la procedura di installazione di Raspbian, clicca **OK** e il vostro Raspberry Pi si riavvierà e Raspbian poi avviarsi.
 
 ![installato](images/installed.png)
