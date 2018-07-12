@@ -2,7 +2,7 @@
 
 एनओबीबीएस का उपयोग करना आपके एसडी कार्ड पर रास्पियन स्थापित करने का सबसे आसान तरीका है। एनओबीबीएस की एक प्रति प्राप्त करने के लिए:
 
-+ पर जाएँ [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/) पर जाएँ
 
 ![डाउनलोड पेज](images/downloads-page.png)
 
@@ -40,7 +40,7 @@
 
 + *NOOBS* फ़ोल्डर से सभी फ़ाइलों का चयन करें और उन्हें एसडी कार्ड पर खींचें।
 
-![विंडोज़ कॉपी](images/copy3.png)
+![Windows कॉपी](images/copy3.png)
 
 ![मैक कॉपी](images/macos_copy.png)
 
