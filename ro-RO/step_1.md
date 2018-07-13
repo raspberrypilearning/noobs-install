@@ -40,24 +40,24 @@ Apoi, va trebui să extrageți fișierele din arhiva zip NOOBS pe care ați desc
 
 + Selectați toate fișierele din dosarul *NOOBS* și glisați-le pe cardul SD.
 
-![Windows copie](images/copy3.png)
+![copie windows](images/copy3.png)
 
 ![copie macos](images/macos_copy.png)
 
 + Scoateți cardul SD.
 
-### Începând din NOOBS
+### Porniți de pe NOOBS
 
-+ Odată ce fișierele au fost copiate, introduceți cardul microSD în vasul de zmeură Pi și conectați dispozitivul Pi la o sursă de alimentare.
++ Odată ce fișierele au fost copiate, introduceți cardul microSD în Raspberry Pi și conectați dispozitivul Pi la o sursă de alimentare.
 
-+ Vi se va oferi o alegere atunci când programul de instalare a fost încărcat. Ar trebui să bifați caseta pentru **Raspbian**, apoi faceți clic pe **Install**.
++ V-a trebui să faceți o alegere, atunci când programul de instalare a fost încărcat. Ar trebui să bifați caseta pentru **Raspbian**, apoi faceți clic pe **Install**.
 
 ![instalare](images/install.png)
 
-+ Faceți clic pe **Da** din dialogul de avertizare, apoi stați pe spate și relaxați-vă. Va dura ceva timp, dar Raspbian se va instala.
++ Faceți clic pe **Da** din dialogul de avertizare, și apoi așteptați. Va dura ceva timp, dar Raspbian se va instala.
 
 ![Instalarea](images/installing.png)
 
-+ Când Raspbian a fost instalat, faceți clic pe **OK** și Raspberry Pi va reporni și Raspbian va porni apoi.
++ Odată Raspbian a fost instalat, faceți clic pe **OK** și Raspberry Pi va reporni iar sistemul de operate Raspbian va rula.
 
 ![instalat](images/installed.png)
