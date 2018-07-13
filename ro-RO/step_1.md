@@ -1,12 +1,12 @@
 ### Descărcarea NOOBS
 
-Utilizarea NOOBS este cel mai simplu mod de a instala Raspbian pe cardul SD. Pentru a obține o copie a NOOBS:
+Folosind NOOBS este cel mai simplu mod de a instala Raspbian pe cardul SD. Pentru a obține o copie a NOOBS:
 
 + Vizitați [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Pagina de descărcări](images/downloads-page.png)
 
-+ Ar trebui să vedeți o casetă cu un link către fișierele NOOBS. Apasa pe link.
++ Ar trebui să vedeți o casetă cu un link către fișierele NOOBS. Apasă pe link.
 
 ![Faceți clic pe NOOBS](images/click-noobs.png)
 
@@ -18,9 +18,9 @@ Utilizarea NOOBS este cel mai simplu mod de a instala Raspbian pe cardul SD. Pen
 
 Dacă cardul SD pe care dorești să instalezi Raspbian are în prezent o versiune mai veche de Raspbian, poți să faci mai întâi copia de rezervă a fișierelor de pe card, deoarece acestea vor fi suprascrise în timpul acestui proces.
 
-+ Accesați site-ul web al asociației SD și descărcați [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pentru Windows sau Mac.
++ Accesați site-ul web al Grupurilor SD și descărcați [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pentru Windows sau Mac.
 
-+ Urmați instrucțiunile pentru a instala software-ul.
++ Urmați instrucțiunile pentru a instala programul.
 
 + Introduceți cardul SD în cititorul de carduri SD al computerului sau al laptopului și notați litera de unitate alocată acestuia, de exemplu `F: /`.
 
@@ -32,11 +32,11 @@ Apoi, va trebui să extrageți fișierele din arhiva zip NOOBS pe care ați desc
 
 + Accesați dosarul *Descărcări* și găsiți fișierul zip pe care l-ați descărcat.
 
-+ Extrageți fișierele și păstrați fereastra Explorer / Finder rezultată deschisă.
++ Extrageți fișierele și păstrați fereastra rezultată Explorer/Finder deschisă.
 
 ### Copierea fișierelor
 
-+ Deschideți acum o altă fereastră Explorer / Finder și navigați pe cardul SD. Cel mai bine este să poziționați cele două ferestre una lângă alta.
++ Deschideți acum o altă fereastră Explorer/Finder și navigați pe cardul SD. Cel mai bine este să poziționați cele două ferestre una lângă alta.
 
 + Selectați toate fișierele din dosarul *NOOBS* și glisați-le pe cardul SD.
 
