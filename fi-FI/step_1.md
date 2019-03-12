@@ -6,9 +6,9 @@ NOOBS: n käyttö on helpoin tapa asentaa Raspbian SD-kortille. Jotta saat kopio
 
 ![Lataussivu](images/downloads-page.png)
 
-+ Sinun pitäisi nähdä laatikko, jossa on linkki NOOBS-tiedostoihin. Napsauta linkkiä.
++ Etsi laatikko, jossa on linkki NOOBS-tiedostoihin. Napauta linkkiä.
 
-![Napsauta NOOBS](images/click-noobs.png)
+![Napauta NOOBS](images/click-noobs.png)
 
 + Yksinkertaisin vaihtoehto on ladata tiedostojen zip-arkisto.
 
@@ -16,7 +16,7 @@ NOOBS: n käyttö on helpoin tapa asentaa Raspbian SD-kortille. Jotta saat kopio
 
 ### SD-kortin alustaminen
 
-Jos SD-kortti, johon haluat asentaa Raspbianin tällä hetkellä on vanhempi Raspbian-versio, voit halutessasi varmuuskopioida tiedostoja kortilta ensin, koska ne korvataan tämän prosessin aikana.
+Jos SD-kortti, johon haluat asentaa Raspbianin tällä hetkellä on vanhempi Raspbian-versio, voit halutessasi varmuuskopioida tiedostot kortilta ensin, koska ne korvataan tämän prosessin aikana.
 
 + Käy SD Associationin verkkosivuilla ja lataa [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) Windowsille tai Macille.
 
@@ -28,11 +28,11 @@ Jos SD-kortti, johon haluat asentaa Raspbianin tällä hetkellä on vanhempi Ras
 
 ### NOOBS: n purku zip-arkistosta
 
-Seuraavaksi sinun on purettava tiedostot NPSPS-arkistosta, jonka olet ladannut Raspberry Pi -sivustosta.
+Seuraavaksi sinun on purettava tiedostot NOOBS zip-arkistosta, jonka olet ladannut Raspberry Pi -sivustosta.
 
 + Siirry *Downloads* kansioon ja etsi lataamasi zip-tiedosto.
 
-+ Pura tiedostot ja säilytä Resurssienhallinta / Etsijä-ikkuna auki.
++ Pura tiedostot ja pidä auennut Explorer/Finder-ikkuna auki.
 
 ### Tiedostojen kopiointi
 
@@ -40,7 +40,7 @@ Seuraavaksi sinun on purettava tiedostot NPSPS-arkistosta, jonka olet ladannut R
 
 + Valitse kaikki tiedostot *NOOBS* -kansiosta ja vedä ne SD-kortille.
 
-![ikkunat kopioida](images/copy3.png)
+![windows kopio](images/copy3.png)
 
 ![macos kopio](images/macos_copy.png)
 
@@ -48,16 +48,16 @@ Seuraavaksi sinun on purettava tiedostot NPSPS-arkistosta, jonka olet ladannut R
 
 ### Käynnistys NOOBS: stä
 
-+ Kun tiedostot on kopioitu, aseta mikro-SD-kortti vadelmillesi Pi ja kytke Pi-liitin virtalähteeseen.
++ Kun tiedostot on kopioitu, aseta micro SD-kortti Raspberry Pi:hin ja kytke Pi virtalähteeseen.
 
-+ Sinulle tarjotaan valinnanvaraa, kun asennusohjelma on ladannut. Tarkista ruutu **Raspbian**ja valitse sitten **Asenna**.
++ Sinulle tarjotaan valinnanvaraa, kun asennusohjelma on ladannut. Valitse ruutu **Raspbian**ja valitse sitten **Asenna**.
 
-![Asentaa](images/install.png)
+![asenna](images/install.png)
 
-+ Valitse varoitusikkunasta **Kyllä** ja istu sitten takaisin ja rentoudu. Se vie jonkin aikaa, mutta Raspbian asentaa.
++ Valitse varoitusikkunasta **Kyllä** ja istu odottamaan ja rentoudu. Kestää jonkin aikaa, kun Raspbian asentuu.
 
-![asennus](images/installing.png)
+![asentaa](images/installing.png)
 
-+ Kun Raspbian on asennettu, valitse **OK** ja Raspberry Pi käynnistyy uudelleen ja Raspbian sitten käynnisty.
++ Kun Raspbian on asennettu, valitse **OK** ja Raspberry Pi käynnistyy uudelleen ja Raspbian käynnistyy.
 
-![asennetut](images/installed.png)
+![asennettu](images/installed.png)
