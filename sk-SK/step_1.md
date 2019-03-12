@@ -1,8 +1,8 @@
 ### Stiahnutie NOOBS
 
-Najjednoduchší spôsob, ako nainštalovať Raspbian na vašu SD kartu, je použiť NOOBS. Ak chcete získať kópiu NOOBS:
+Najjednoduchší spôsob, ako nainštalovať Raspbian na vašu SD kartu, je pomocou NOOBS. Ak chcete získať kópiu NOOBS:
 
-+ Navštívte [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Navštívte stránku [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Stránka na prevzatie](images/downloads-page.png)
 
@@ -10,7 +10,7 @@ Najjednoduchší spôsob, ako nainštalovať Raspbian na vašu SD kartu, je pou�
 
 ![Kliknite na NOOBS](images/click-noobs.png)
 
-+ Najjednoduchšou možnosťou je prevziať zip archív so súbormi.
++ Najjednoduchšou možnosťou je stiahnuť zip archív so súbormi.
 
 ![Stiahnuť zip](images/download-zip.png)
 
@@ -28,21 +28,21 @@ Ak sa na SD karte, na ktorú chcete nainštalovať Raspbian, nachádza staršia 
 
 ### Rozbalenie NOOBS zo zip archívu
 
-Ďalej budete musieť extrahovať súbory z NOOBS zip archívu, ktorý ste stiahli z webovej stránky Raspberry Pi.
+Ďalej budete musieť rozbaliť súbory zo zip archívu NOOBS, ktorý ste stiahli z webovej stránky Raspberry Pi.
 
-+ Prejdite do priečinka *Downloads* a nájdite zip súbor, ktorý ste stiahli.
++ Prejdite do priečinka *Stiahnutých súborov* a nájdite zip súbor, ktorý ste stiahli.
 
 + Rozbaľte súbory a nechajte otvorené okno aplikácie Prieskumník/Finder.
 
 ### Kopírovanie súborov
 
-+ Otvorte ďalšie okno aplikácie Prieskumník/Finder a prejdite na SD kartu. Najlepšie je umiestniť obe okná vedľa seba.
++ Otvorte nové okno aplikácie Prieskumník/Finder a prejdite na SD kartu. Najlepšie je umiestniť obe okná vedľa seba.
 
 + Označte všetky súbory z priečinku *NOOBS* a presuňte ich na SD kartu.
 
-![windows copy](images/copy3.png)
+![kopírovanie v systéme Windows](images/copy3.png)
 
-![kópia macos](images/macos_copy.png)
+![kopírovanie v systéme MacOS](images/macos_copy.png)
 
 + Vysuňte SD kartu.
 
@@ -50,14 +50,14 @@ Ak sa na SD karte, na ktorú chcete nainštalovať Raspbian, nachádza staršia 
 
 + Po prekopírovaní súborov vložte micro SD kartu do vášho Raspberry Pi a zapojte Pi do zdroja napájania.
 
-+ Po načítaní inštalátora vám ponúkne možnosť výberu. Začiarknite políčko **Raspbian** a kliknite na **Inštalovať**.
++ Po načítaní vám inštalátor ponúkne možnosť výberu. Začiarknite políčko **Raspbian** a kliknite na tlačidlo **Inštalovať**.
 
 ![inštalovať](images/install.png)
 
-+ Kliknite na tlačidlo **Áno** v dialógu s upozornením a potom sa už len pohodlne posaďte a relaxujte. Bude to chvíľu trvať, ale Raspbian sa nainštaluje.
++ Kliknite na tlačidlo **Áno** v dialógovom okne s upozornením a potom sa už len pohodlne posaďte a relaxujte. Bude to chvíľu trvať, ale Raspbian sa nainštaluje.
 
 ![inštalácia](images/installing.png)
 
 + Keď sa Raspbian nainštaluje, kliknite na tlačidlo **OK** a vaše Raspberry Pi sa reštartuje a následne sa spustí Raspbian.
 
-![nainštalovaný](images/installed.png)
+![nainštalované](images/installed.png)
