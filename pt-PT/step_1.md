@@ -22,13 +22,13 @@ Se o cartão SD no qual você deseja instalar o Raspbian atualmente tiver uma ve
 
 + Siga as instruções para instalar o software.
 
-+ Insira o cartão SD no leitor de cartão SD do computador ou laptop e anote a letra da unidade alocada, por exemplo, `F:/`.
++ Insira o cartão SD no leitor de cartão SD do computador de secretária ou computador portátil e anote a letra da unidade alocada, por exemplo, `F:/`.
 
 + No SD Formatter, selecione a letra da unidade do cartão SD e formate-a.
 
 ### Extrair o NOOBS do arquivo zip
 
-Em seguida, você precisa de extrair os ficheiros do arquivo zip NOOBS que você descarregou do site do Raspberry Pi.
+Em seguida, você precisa de extrair os ficheiros do arquivo zip com o NOOBS que você descarregou do site do Raspberry Pi.
 
 + Vá para a pasta *Downloads* e encontre o arquivo zip que você descarregou.
 
@@ -46,7 +46,7 @@ Em seguida, você precisa de extrair os ficheiros do arquivo zip NOOBS que você
 
 + Ejete o cartão SD.
 
-### Inicializar do NOOBS
+### Arranque do NOOBS
 
 + Uma vez os arquivos copiados, insira o cartão micro SD no seu Raspberry Pi e ligue o Pi a uma fonte de energia.
 
