@@ -1,6 +1,6 @@
 ---
 title: Instal·lant Raspbian amb NOOBS
-hero_image: imatges / banner.png
+hero_image: images/banner.png
 description: Una guia sobre com instal·lar Raspbian en una targeta SD amb NOOBS, des de qualsevol plataforma
 original_url: https://raspberrypi.org/learning/noobs-install
 theme: vermell
@@ -10,7 +10,7 @@ ingredient: true
 copyedit: false
 curriculum: creador, disseny-0, programació-0, phys-comp-0, fabricació-0, comunitat-0
 interests: ''
-technologies: rpi, informàtica física, pitó
+technologies: rpi, informàtica física, python
 site_areas: ''
 steps:
   - 
