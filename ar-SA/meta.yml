@@ -3,14 +3,14 @@ title: تثبيت Raspbian مع NOOBS
 hero_image: images/banner.png
 description: دليل حول كيفية تثبيت Raspbian على بطاقة SD باستخدام NOOBS ، من أي نظام أساسي
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: أحمر
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: الخالق ، design-0 ، programming-0 ، phys-comp-0 ، manufacture-0 ، community-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi ، الحوسبة المادية ، python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
