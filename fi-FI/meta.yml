@@ -1,0 +1,17 @@
+---
+title: 'Raspbianin asentaminen NOOBS: illa'
+hero_image: images/banner.png
+description: 'Opas Raspbianin asentamisesta SD-kortille NOOBS: n avulla mistä tahansa alustasta'
+original_url: https://raspberrypi.org/learning/noobs-install
+theme: punainen
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, fyysinen laskenta, python
+site_areas: ''
+steps:
+  - 
+    title: Johdanto
