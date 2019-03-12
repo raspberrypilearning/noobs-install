@@ -8,9 +8,9 @@ duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: creador, diseño-0, programación-0, phys-comp-0, fabricación-0, comunidad-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi, informática física, pitón
+technologies: rpi, computación fìsica, python
 site_areas: ''
 steps:
   - 
