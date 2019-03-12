@@ -30,13 +30,13 @@ Jeśli karta SD, na której chcesz zainstalować Raspbian, ma obecnie starszą w
 
 Następnie musisz wyodrębnić pliki z archiwum zip NOOBS pobranego ze strony Raspberry Pi.
 
-+ Przejdź do swojego folderu *pobrań* i znajdź pobrany plik zip.
++ Przejdź do swojego folderu *Pobrane* i znajdź pobrany plik zip.
 
-+ Wyodrębnij pliki i pozostaw otwarte okno Eksploratora / Findera.
++ Wyodrębnij pliki i pozostaw otwarte okno Eksploratora / menadżera plików.
 
 ### Kopiowanie plików
 
-+ Teraz otwórz kolejne okno Eksploratora / Findera i przejdź do karty SD. Najlepiej ustawić dwa okna obok siebie.
++ Teraz otwórz kolejne okno Eksploratora / Menadżera plików i przejdź do karty SD. Najlepiej ustawić dwa okna obok siebie.
 
 + Wybierz wszystkie pliki z folderu *NOOBS* i przeciągnij je na kartę SD.
 
@@ -44,17 +44,17 @@ Następnie musisz wyodrębnić pliki z archiwum zip NOOBS pobranego ze strony Ra
 
 ![kopia makra](images/macos_copy.png)
 
-+ Wyjmij kartę SD.
++ Odmontuj kartę SD.
 
 ### Ładowanie z NOOBS
 
 + Po skopiowaniu plików włóż kartę micro SD do swojego Raspberry Pi i podłącz Pi do źródła zasilania.
 
-+ Po załadowaniu instalatora otrzymasz propozycję wyboru. Powinieneś zaznaczyć pole wyboru **Raspbian**, a następnie kliknąć **Zainstaluj**.
++ Po załadowaniu instalatora otrzymasz propozycję wyboru. Powinieneś zaznaczyć pole wyboru **Raspbian**, a następnie kliknąć **Install**.
 
-![zainstalować](images/install.png)
+![zainstaluj](images/install.png)
 
-+ Kliknij **Tak** w oknie dialogowym ostrzeżenia, a następnie usiądź wygodnie i zrelaksuj się. To zajmie trochę czasu, ale Raspbian zainstaluje.
++ Kliknij **Yes** w oknie dialogowym ostrzeżenia, a następnie usiądź wygodnie i zrelaksuj się. To zajmie trochę czasu, ale Raspbian się zainstaluje.
 
 ![instalacja](images/installing.png)
 
