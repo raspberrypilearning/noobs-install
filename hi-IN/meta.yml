@@ -1,0 +1,16 @@
+---
+title: एनओबीबीएस के साथ रास्पियन स्थापित करना
+hero_image: images/banner.png
+description: किसी भी मंच से एनओबीबीएस का उपयोग करके एसडी कार्ड पर रास्पियन को कैसे स्थापित करें, इस पर एक गाइड
+original_url: https://raspberrypi.org/learning/noobs-install
+theme: red
+duration: 0
+listed: false
+ingredient: true
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+  - title: परिचय
