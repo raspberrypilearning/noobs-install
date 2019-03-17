@@ -40,7 +40,7 @@
 
 + 从 *NOOBS* 文件夹中选择所有文件并将它们拖到SD卡上。
 
-![窗口复制](images/copy3.png)
+![Windows复制](images/copy3.png)
 
 ![macos复制](images/macos_copy.png)
 
@@ -50,7 +50,7 @@
 
 + 一旦文件被复制完毕，将micro SD卡插入树莓派，然后将其接通电源。
 
-+ 安装程序加载完成后，您将看到一个选项。 您应该勾选 **Raspbian**，然后单击 **安装**。
++ 安装程序加载完成后，您将看到一个选项。 您应该勾选 **Raspbian**，然后单击 **Install**。
 
 ![安装](images/install.png)
 
