@@ -50,7 +50,7 @@ Nu moeten de bestanden uit het NOOBS zip-bestand, die je hebt gedownload van de 
 
 + Nadat de bestanden zijn gekopieerd, plaats je de micro SD-kaart in de Raspberry Pi en zet je stroom op de Pi.
 
-+ Als het installatieprogramma is geladen krijg je een keuze. Vink het vakje aan voor **Raspbian**en klik dan op **Install**.
++ Als het installatieprogramma is geladen krijg je een keuze. Vink het vakje aan voor **Raspbian** en klik dan op **Install**.
 
 ![install](images/install.png)
 
