@@ -1,6 +1,6 @@
-### S'està descarregant NOOBS
+### Descarregant NOOBS
 
-L'ús de NOOBS és la manera més senzilla d'instal·lar Raspbian a la vostra targeta SD. Per agafar una còpia de NOOBS:
+Emprant NOOBS és la manera més senzilla d'instal·lar Raspbian a la vostra targeta SD. Per obtenir una còpia de NOOBS:
 
 + Visita [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
@@ -10,11 +10,11 @@ L'ús de NOOBS és la manera més senzilla d'instal·lar Raspbian a la vostra ta
 
 ![Feu clic a NOOBS](images/click-noobs.png)
 
-+ L'opció més senzilla és descarregar l'arxiu zip dels fitxers.
++ L'opció més senzilla és descarregar l'arxiu zip.
 
 ![Descarregueu zip](images/download-zip.png)
 
-### Format de la targeta SD
+### Formateig de la targeta SD
 
 Si la targeta SD en què voleu instal·lar Raspbian actualment té una versió anterior de Raspbian, potser voldreu fer una còpia de seguretat dels fitxers de la targeta primer, ja que es sobreescriuran durant aquest procés.
 
