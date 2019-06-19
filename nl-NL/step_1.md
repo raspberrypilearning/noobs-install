@@ -22,7 +22,7 @@ Als er op de SD-kaart, waarop je Raspbian wilt installeren, al een oudere versie
 
 + Om de software te installeren volg je de instructies op.
 
-+ Doe de SD-kaart in de computer of SD-kaartlezer en onthou de stationsletter die eraan wordt toegekend, bijvoorbeeld `F:/`.
++ Doe de SD-kaart in de computer of SD-kaartlezer en onthoud de stationsletter die eraan wordt toegekend, bijvoorbeeld `F:/`.
 
 + Selecteer in SD Formatter de stationsletter van de SD-kaart en formatteer die.
 
@@ -58,6 +58,6 @@ Nu moeten de bestanden uit het NOOBS zip-bestand, die je hebt gedownload van de 
 
 ![installing](images/installing.png)
 
-+ Als Raspbian is geïnstalleerd, klikt je op **OK**. De Raspberry Pi wordt met Raspbian opgestart.
++ Als Raspbian is geïnstalleerd, klik je op **OK**. De Raspberry Pi wordt met Raspbian opgestart.
 
 ![installed](images/installed.png)
