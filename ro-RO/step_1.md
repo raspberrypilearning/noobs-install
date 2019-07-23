@@ -1,63 +1,63 @@
 ### Descărcarea NOOBS
 
-Folosind NOOBS este cel mai simplu mod de a instala Raspbian pe cardul SD. Pentru a obține o copie a NOOBS:
+Cea mai simplă cale de a instala Raspbian pe cardul SD este NOOBS. Pentru a obține o copie a NOOBS:
 
-+ Vizitați [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Vizitează [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Pagina de descărcări](images/downloads-page.png)
 
-+ Ar trebui să vedeți o casetă cu un link către fișierele NOOBS. Apasă pe link.
++ Ar trebui să vezi o casetă cu un link către fișierele NOOBS. Apasă pe link.
 
-![Faceți clic pe NOOBS](images/click-noobs.png)
+![Apasă pe NOOBS](images/click-noobs.png)
 
-+ Cea mai simplă opțiune este să descărcați arhiva zip a fișierelor.
++ Cea mai simplă opțiune este să descarci arhiva zip a fișierelor.
 
-![Descărcați zip](images/download-zip.png)
+![Descarcă zip](images/download-zip.png)
 
 ### Formatarea cardului SD
 
-Dacă cardul SD pe care dorești să instalezi Raspbian are în prezent o versiune mai veche de Raspbian, poți să faci mai întâi copia de rezervă a fișierelor de pe card, deoarece acestea vor fi suprascrise în timpul acestui proces.
+Dacă cardul SD pe care dorești să instalezi Raspbian are în prezent o versiune mai veche de Raspbian, ar fi bine să faci mai întâi o copie de rezervă a fișierelor de pe card, deoarece acestea vor fi șterse în timpul acestui proces.
 
-+ Accesați site-ul web al Grupurilor SD și descărcați [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pentru Windows sau Mac.
++ Accesează site-ul web al SD Association și descarcă [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) pentru Windows sau Mac.
 
-+ Urmați instrucțiunile pentru a instala programul.
++ Urmează instrucțiunile pentru a instala programul.
 
-+ Introduceți cardul SD în cititorul de carduri SD al computerului sau al laptopului și notați litera de unitate alocată acestuia, de exemplu `F: /`.
++ Introdu cardul de memorie SD în cititorul de carduri SD al computerului sau al laptopului și ține minte litera de unitate alocată acestuia, de exemplu `F:/`.
 
-+ În formatatorul SD, selectați litera unității pentru cardul SD și formatați-o.
++ În SD Formatter, selectează litera unității pentru cardul SD și formateaz-o.
 
 ### Extragerea NOOBS din arhiva zip
 
-Apoi, va trebui să extrageți fișierele din arhiva zip NOOBS pe care ați descărcat-o de pe site-ul Raspberry Pi.
+Apoi, va trebui să extragi fișierele din arhiva zip NOOBS pe care ai descărcat-o de pe site-ul Raspberry Pi.
 
-+ Accesați dosarul *Descărcări* și găsiți fișierul zip pe care l-ați descărcat.
++ Accesează dosarul *Descărcări* și caută fișierul zip pe care l-ai descărcat.
 
-+ Extrageți fișierele și păstrați fereastra rezultată Explorer/Finder deschisă.
++ Extrage fișierele și păstrează fereastra Explorer/Finder deschisă.
 
 ### Copierea fișierelor
 
-+ Deschideți acum o altă fereastră Explorer/Finder și navigați pe cardul SD. Cel mai bine este să poziționați cele două ferestre una lângă alta.
++ Deschide acum o altă fereastră Explorer/Finder și navighează pe cardul SD. Cel mai bine este să poziționezi cele două ferestre una lângă alta.
 
-+ Selectați toate fișierele din dosarul *NOOBS* și glisați-le pe cardul SD.
++ Selectează toate fișierele din dosarul *NOOBS* și copiază-le pe cardul SD.
 
 ![copie windows](images/copy3.png)
 
 ![copie macos](images/macos_copy.png)
 
-+ Scoateți cardul SD.
++ Scoate cardul SD.
 
-### Porniți de pe NOOBS
+### Pornirea NOOBS
 
-+ Odată ce fișierele au fost copiate, introduceți cardul microSD în Raspberry Pi și conectați dispozitivul Pi la o sursă de alimentare.
++ Odată ce fișierele au fost copiate, introdu cardul microSD în Raspberry Pi și conectează dispozitivul Pi la o sursă de alimentare.
 
-+ V-a trebui să faceți o alegere, atunci când programul de instalare a fost încărcat. Ar trebui să bifați caseta pentru **Raspbian**, apoi faceți clic pe **Install**.
++ Va trebui să faci o alegere atunci când programul de instalare a fost încărcat. Bifează caseta pentru **Raspbian**, apoi apasă pe **Install**.
 
 ![instalare](images/install.png)
 
-+ Faceți clic pe **Da** din dialogul de avertizare, și apoi așteptați. Va dura ceva timp, dar Raspbian se va instala.
++ Apasă pe **Yes** din dialogul de avertizare, apoi așteaptă. Va dura ceva timp până când Raspbian se va instala.
 
 ![Instalarea](images/installing.png)
 
-+ Odată Raspbian a fost instalat, faceți clic pe **OK** și Raspberry Pi va reporni iar sistemul de operate Raspbian va rula.
++ Odată ce Raspbian a fost instalat, apasă pe **OK** și Raspberry Pi va reporni iar sistemul de operate Raspbian va rula.
 
 ![instalat](images/installed.png)
