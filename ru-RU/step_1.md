@@ -4,7 +4,7 @@
 
 + Перейди по этой ссылке [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
-![Страница загрузки](images/downloads-page.png)
+![Страница загрузок](images/downloads-page.png)
 
 + Тебе должна стать видна кнопка (блок) со ссылкой NOOBS. Щёлкни по ссылке.
 
