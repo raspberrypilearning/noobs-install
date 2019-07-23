@@ -1,16 +1,16 @@
 ---
 title: Instalarea Raspbian cu NOOBS
-hero_image: images / banner.png
-description: Un ghid despre cum să instalați Raspbian pe un card SD utilizând NOOBS, de pe orice platformă
+hero_image: images/banner.png
+description: Un ghid despre cum să instalezi Raspbian pe un card SD utilizând NOOBS, de pe orice platformă
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: roșu
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: creator, design-0, programare-0, fiz-comp-0, fabricare-0, comunitate-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi, calcul fizic, python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
