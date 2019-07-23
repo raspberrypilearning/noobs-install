@@ -12,7 +12,7 @@ Usare NOOBS è il modo più semplice per installare Raspbian sulla tua scheda SD
 
 + L'opzione più semplice è scaricare l'archivio zip dei file.
 
-![Scarica l'archivio zip](images/download-zip.png)
+![Scarica il file zip](images/download-zip.png)
 
 ### Formattazione della scheda SD
 
@@ -20,7 +20,7 @@ Se la scheda SD su cui si desidera installare Raspbian contiene attualmente una 
 
 + Visita il sito web di SD Association e scaricare [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) per Windows o Mac.
 
-+ Seguire le istruzioni per installare il software.
++ Segui le istruzioni per installare il software.
 
 + Inserisci la scheda SD nel lettore di schede SD del computer o del portatile e prendi nota della lettera di unità assegnata ad essa, ad esempio `F: /`.
 
@@ -28,7 +28,7 @@ Se la scheda SD su cui si desidera installare Raspbian contiene attualmente una 
 
 ### Estrarre NOOBS dall'archivio zip
 
-Successivamente, dovrai estrarre i file dall'archivio zip NOOBS scaricato dal sito web Raspberry Pi.
+Successivamente, sarà necessario estrarre i file dall'archivio zip NOOBS scaricato dal sito Web Raspberry Pi.
 
 + Vai alla cartella *Download* e trova il file zip scaricato.
 
@@ -36,7 +36,7 @@ Successivamente, dovrai estrarre i file dall'archivio zip NOOBS scaricato dal si
 
 ### Copia dei file
 
-+ Ora, apri un'altra finestra Esplora risorse / Finder e vai alla scheda SD. È meglio posizionare le due finestre una accanto all'altra.
++ Ora apri un'altra finestra Esplora risorse / Finder e vai alla scheda SD. È meglio posizionare le due finestre una accanto all'altra.
 
 + Seleziona tutti i file dalla cartella *NOOBS* e trascinali sulla scheda SD.
 
@@ -52,12 +52,12 @@ Successivamente, dovrai estrarre i file dall'archivio zip NOOBS scaricato dal si
 
 + Ti verrà offerta una scelta quando il programma di installazione si sarà avviato. È necessario selezionare la casella per **Raspbian**, quindi fare clic su **Installa**.
 
-![installazione](images/install.png)
+![installare](images/install.png)
 
-+ Clicca **Sì** alla finestra di avviso, siediti e rilassati. Ci vorrà un po', ma Raspbian si installerà.
++ Clicca **Sì** alla finestra di avviso, poi siediti e rilassati. Ci vorrà un po', ma Raspbian si installerà.
 
 ![installazione](images/installing.png)
 
-+ Una volta completata la procedura di installazione di Raspbian, clicca **OK** e il tuo Raspberry Pi si riavvierà e il sistema operativo Raspbian si avvierà.
++ Una volta completata la procedura di installazione di Raspbian, clicca **OK**. Il tuo Raspberry Pi si riavvierà e il sistema operativo Raspbian verrà caricato.
 
 ![installato](images/installed.png)
