@@ -22,7 +22,7 @@ Wenn auf der SD-Karte, auf der du Raspbian installieren möchtest, derzeit eine 
 
 + Folge den Anweisungen, um die Software zu installieren.
 
-+ Lege deine SD-Karte in den SD-Kartenleser des Computers oder Laptops ein und notiere dir den Laufwerksbuchstaben, z. B. `F: /`.
++ Stecke deine SD-Karte in den SD-Kartenleser des Computers oder Laptops ein und notiere dir den Laufwerksbuchstaben, z. B. `F: /`.
 
 + Wähle im SD Formatter den Laufwerksbuchstaben für deine SD-Karte und formatiere sie.
 
@@ -48,7 +48,7 @@ Als nächstes musst du die Dateien aus dem NOOBS-ZIP-Archiv extrahieren, das du 
 
 ### Booten von NOOBS
 
-+ Wenn die Dateien fertig kopiert wurden, lege die microSD-Karte in deinen Raspberry Pi ein und stecke den Pi in eine Stromquelle.
++ Wenn die Dateien fertig kopiert wurden, lege die microSD-Karte in deinen Raspberry Pi ein und stecke den Pi an eine Stromquelle.
 
 + Dir wird eine Auswahl angeboten, wenn das Installationsprogramm geladen wurde. Du solltest das Kontrollkästchen für **Raspbian** aktivieren und dann auf **Installieren** klicken.
 
@@ -58,6 +58,6 @@ Als nächstes musst du die Dateien aus dem NOOBS-ZIP-Archiv extrahieren, das du 
 
 ![installieren](images/installing.png)
 
-+ Wenn Raspbian installiert wurde, klicke auf **OK** und dein Raspberry Pi wird neu gestartet und Raspbian wird hochfahren.
++ Nachdem Raspbian installiert wurde, klicke auf **OK** und dein Raspberry Pi wird neu starten und Raspbian wird hochfahren.
 
 ![Installation abgeschlossen](images/installed.png)
