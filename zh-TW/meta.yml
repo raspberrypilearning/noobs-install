@@ -1,17 +1,17 @@
 ---
-title: 用NOOBS安裝Raspbian
-hero_image: 圖片/ banner.png
-description: 關於如何在任何平台上使用NOOBS在SD卡上安裝Raspbian的指南
+title: 使用 NOOBS 安裝 Raspbian
+hero_image: images/banner.png
+description: 如何使用 NOOBS 從任何平台將 Raspbian 安裝在 SD卡上的指南
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: 紅
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: 創作者，設計-0，編程-0，物理comp-0，製造-0，社區-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi，物理計算，python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
-    title: 介紹
+    title: 簡介
