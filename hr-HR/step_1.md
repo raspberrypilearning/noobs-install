@@ -1,8 +1,8 @@
 ### Preuzimanje NOOBS-a
 
-Korištenje NOOBS-a najlakši je način za instalaciju programa Raspbian na SD karticu. Da biste dobili kopiju NOOBS-a:
+Korištenje NOOBS-a najlakši je način za instalaciju Raspbian operacijskog sustava na SD karticu. Za dobivanje kopije NOOBS-a:
 
-+ Posjetite [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Posjeti [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Stranica za preuzimanje](images/downloads-page.png)
 
