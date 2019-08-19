@@ -54,10 +54,10 @@ Tiếp theo, bạn sẽ cần giải nén các tệp từ file nén zip NOOBS m�
 
 ![cài đặt](images/install.png)
 
-+ Nhấp vào **Yes** tại hộp thoại cảnh báo, sau đó ngồi và thư giãn. Nó sẽ mất một lúc, nhưng Raspbian sẽ cài đặt.
++ Nhấp vào **Yes** tại hộp thoại cảnh báo, sau đó ngồi và thư giãn. Nó sẽ mất một lúc, trong lúc đó Raspbian sẽ cài đặt.
 
 ![cài đặt](images/installing.png)
 
-+ Khi Raspbian đã được cài đặt, nhấp vào **OK** và Raspberry Pi của bạn sẽ khởi động lại và Raspbian sau đó sẽ khởi động.
++ Khi Raspbian đã được cài đặt, nhấp vào **OK** và Raspberry Pi của bạn sẽ tự động khởi động lại.
 
 ![Cài đặt](images/installed.png)
