@@ -22,11 +22,11 @@ Ako SD kartica na koju želiš instalirati Raspbian trenutačno ima stariju verz
 
 + Slijedi upute za instalaciju softvera.
 
-+ Umetnite svoju SD karticu u čitač SD kartica na računalu ili laptopa i zabilježite dodijeljeno slovo pogona, npr. `F: /`.
++ Umetni svoju SD karticu u čitač SD kartice na računalu ili laptopu i zapamti dodijeljeno slovo pogona, npr. `F: /`.
 
-+ U programu SD Formatter odaberite slovo pogona za SD karticu i formatirajte ga.
++ U programu SD Formatter odaberi slovo pogona za SD karticu i formatiraj ju.
 
-### Izvlačenje NOOBS iz zip arhive
+### Raspakiravanje NOOBS-a iz zip arhive
 
 Zatim ćete morati izdvojiti datoteke iz arhive zipa NOOBS koje ste preuzeli s web stranice Raspberry Pi.
 
