@@ -6,7 +6,7 @@ Korištenje NOOBS-a najlakši je način za instalaciju Raspbian operacijskog sus
 
 ![Stranica za preuzimanje](images/downloads-page.png)
 
-+ Trebali biste vidjeti okvir s vezom na NOOBS datoteke. Kliknite vezu.
++ Trebali biste vidjeti okvir s poveznicom na NOOBS datoteke. Kliknite vezu.
 
 ![Kliknite NOOBS](images/click-noobs.png)
 
