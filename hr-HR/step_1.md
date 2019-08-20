@@ -8,11 +8,11 @@ Korištenje NOOBS-a najlakši je način za instalaciju Raspbian operacijskog sus
 
 + Trebali biste vidjeti okvir s poveznicom na NOOBS datoteke. Klikni na poveznicu.
 
-![Kliknite NOOBS](images/click-noobs.png)
+![Klikni na NOOBS](images/click-noobs.png)
 
 + Najjednostavniji način je preuzimanje zip datoteke.
 
-![Preuzmite zip](images/download-zip.png)
+![Preuzmi zip](images/download-zip.png)
 
 ### Formatiranje SD kartice
 
@@ -40,9 +40,9 @@ Sada moraš raspakirati datoteke iz NOOBS zip arhive koju si preuzeo s Raspberry
 
 + Odaberi sve datoteke iz mape *NOOBS* i povuci ih u SD karticu.
 
-![kopiranje sustava Windows](images/copy3.png)
+![kopiranje Windows sustava](images/copy3.png)
 
-![mako kopirati](images/macos_copy.png)
+![kopiranje Macos sustava](images/macos_copy.png)
 
 + Izvadi SD karticu.
 
@@ -52,7 +52,7 @@ Sada moraš raspakirati datoteke iz NOOBS zip arhive koju si preuzeo s Raspberry
 
 + Bit će ti ponuđena mogućnost izbora nakon što se instalacijski program učita. Označi kućicu za **Raspbian**, a zatim klikni **Instaliraj (Install)**.
 
-![instalirati](images/install.png)
+![instaliraj](images/install.png)
 
 + Klikni **Da (Yes)** u dijaloškom okviru, a zatim sjedni i opusti se. Potrajat će neko vrijeme, ali Raspbian će se instalirati.
 
