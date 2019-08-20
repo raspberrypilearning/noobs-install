@@ -28,36 +28,36 @@ Ako SD kartica na koju želiš instalirati Raspbian trenutačno ima stariju verz
 
 ### Raspakiravanje NOOBS-a iz zip arhive
 
-Zatim ćete morati izdvojiti datoteke iz arhive zipa NOOBS koje ste preuzeli s web stranice Raspberry Pi.
+Sada moraš raspakirati datoteke iz NOOBS zip arhive koju si preuzeo s Raspberry Pi web stranice.
 
-+ Idite na mapu *Downloads* i pronađite zip datoteku koju ste preuzeli.
++ Otvori mapu *Preuzimanja (Downloads)* i pronađi preuzetu zip datoteku.
 
-+ Izvadite datoteke i zadržite otvoreni prozor Explorer / Finder.
++ Raspakiraj datoteke i ostavi prozor Explorer/Finder otvoren.
 
 ### Kopiranje datoteka
 
-+ Sada otvorite još jedan prozor Explorer / Finder i idite na SD karticu. Najbolje je postaviti dva prozora jedan do drugoga.
++ Sada otvori još jedan Explorer/Finder prozor i pronađi SD karticu. Najbolje je postaviti prozore jedan do drugoga.
 
-+ Odaberite sve datoteke iz mape *NOOBS* i povucite ih na SD karticu.
++ Odaberi sve datoteke iz mape *NOOBS* i povuci ih u SD karticu.
 
 ![kopiranje sustava Windows](images/copy3.png)
 
 ![mako kopirati](images/macos_copy.png)
 
-+ Izvadite SD karticu.
++ Izvadi SD karticu.
 
-### Dizanje iz NOOBS-a
+### Pokretanje NOOBS-a
 
-+ Nakon što su datoteke kopirane, umetnite mikro SD karticu u svoj maleni Pi i priključite Pi u izvor napajanja.
++ Nakon što su datoteke kopirane, umetni mikro SD karticu u svoj Raspberry Pi i priključi Pi u izvor napajanja.
 
-+ Bit će vam ponuđena mogućnost izbora kada je instalater umetnut. Provjerite okvir za **Raspbian**, a zatim kliknite **Instaliraj**.
++ Bit će ti ponuđena mogućnost izbora nakon što se instalacijski program učita. Označi kućicu za **Raspbian**, a zatim klikni **Instaliraj (Install)**.
 
 ![instalirati](images/install.png)
 
-+ Kliknite **Da** u dijaloškom okviru upozorenja, a zatim se opustite. Potrajat će neko vrijeme, ali će Raspbian instalirati.
++ Klikni **Da (Yes)** u dijaloškom okviru, a zatim sjedni i opusti se. Potrajat će neko vrijeme, ali Raspbian će se instalirati.
 
 ![instaliranje](images/installing.png)
 
-+ Kad je instaliran Raspbian, kliknite **OK** i vaš malina Pi će se ponovno pokrenuti i Raspbian onda će dignuti.
++ Kad je Raspbian instaliran, klikni **OK** i tvoj će se Raspberry Pi, skupa s Raspbianom, ponovno pokrenuti.
 
 ![instaliran](images/installed.png)
