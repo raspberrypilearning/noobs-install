@@ -6,21 +6,21 @@ Korištenje NOOBS-a najlakši je način za instalaciju Raspbian operacijskog sus
 
 ![Stranica za preuzimanje](images/downloads-page.png)
 
-+ Trebali biste vidjeti okvir s poveznicom na NOOBS datoteke. Kliknite vezu.
++ Trebali biste vidjeti okvir s poveznicom na NOOBS datoteke. Klikni na poveznicu.
 
 ![Kliknite NOOBS](images/click-noobs.png)
 
-+ Najjednostavnija je mogućnost preuzimanje zip arhive datoteka.
++ Najjednostavniji način je preuzimanje zip datoteke.
 
 ![Preuzmite zip](images/download-zip.png)
 
-### Oblikovanje SD kartice
+### Formatiranje SD kartice
 
-Ako SD kartica na koju želite instalirati Raspbian trenutačno ima stariju verziju programa Raspbian, možda ćete prvo trebati sigurnosno kopirati datoteke s kartice jer će se tijekom tog postupka nadjačati.
+Ako SD kartica na koju želiš instalirati Raspbian trenutačno ima stariju verziju programa, možda ćeš prvo trebati sigurnosno kopirati datoteke s kartice. U protivnom će datoteke biti izbrisane tijekom instalacije.
 
-+ Posjetite web stranicu Udruge SD i preuzmite [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) za Windows ili Mac.
++ Posjeti web stranicu SD Association i preuzmi [SD Formatter 5.0.1](https://www.sdcard.org/downloads/formatter_4/index.html) za Windows ili Mac.
 
-+ Slijedite upute za instalaciju softvera.
++ Slijedi upute za instalaciju softvera.
 
 + Umetnite svoju SD karticu u čitač SD kartica na računalu ili laptopa i zabilježite dodijeljeno slovo pogona, npr. `F: /`.
 
