@@ -1,7 +1,7 @@
 ---
 title: Instaliranje Raspbian operacijskog sustava uz pomoć NOOBS instalacijskog programa
 hero_image: images/banner.png
-description: Vodič o tome kako s bilo koje platforme instalirati Raspbian operacijski sustav na SD karticu pomoću NOOBS instalacisjkog programa
+description: Vodič za instaliranje Raspbian operacijskog sustava, s bilo koje platforme, na SD karticu pomoću NOOBS instalacijskog programa
 original_url: https://raspberrypi.org/learning/noobs-install
 theme: red
 duration: 1
