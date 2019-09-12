@@ -1,7 +1,7 @@
 ---
-title: Namestitev Raspbian s sistemom NOOBS
+title: Namestitev Raspbian z uporabo NOOBS-a
 hero_image: images/banner.png
-description: Vodnik o namestitvi sistema Raspbian na SD kartico z uporabo NOOBS-a s pomočjo katere koli platforme
+description: Vodnik za namestitvev Raspbian na SD kartico z uporabo NOOBS-a iz poljubnega operacijskega sistema
 original_url: https://raspberrypi.org/learning/noobs-install
 theme: red
 duration: 1
