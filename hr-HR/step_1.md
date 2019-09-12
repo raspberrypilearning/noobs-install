@@ -38,7 +38,7 @@ Sada moraš raspakirati datoteke iz NOOBS zip arhive koju si preuzeo s Raspberry
 
 + Sada otvori još jedan Explorer/Finder prozor i pronađi SD karticu. Najbolje je postaviti prozore jedan do drugoga.
 
-+ Odaberi sve datoteke iz mape *NOOBS* i povuci ih u SD karticu.
++ Odaberi sve datoteke iz mape *NOOBS* i povuci ih na SD karticu.
 
 ![kopiranje Windows sustava](images/copy3.png)
 
