@@ -1,6 +1,6 @@
 ### Prenos NOOBS-a
 
-Uporaba NOOBS-a je najlažji način namestitve sistema Raspbian na SD kartico. Za pridobitev NOOBS-a:
+NOOBS omogoča najbolj enostaven način namestitve sistema Raspbian na SD kartico. Za pridobitev NOOBS-a:
 
 + Obiščite [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
@@ -10,33 +10,33 @@ Uporaba NOOBS-a je najlažji način namestitve sistema Raspbian na SD kartico. Z
 
 ![Kliknite na NOOBS](images/click-noobs.png)
 
-+ Najpreprostejša možnost je prenesti zip arhiv datotek.
++ Najbolj enostavna možnost je, da prenesete zip arhiv datotek.
 
 ![Prenesi zip](images/download-zip.png)
 
-### Formatiranje kartice SD
+### Formatiranje SD kartice
 
-Če SD kartica, na kateri želite namestiti Raspbian, trenutno vsebuje starejšo različico programa Raspbian, boste morda želeli najprej varnostno kopirati datoteke s kartice, saj bodo med tem postopkom izbrisane.
+Če SD kartica, na kateri želite namestiti Raspbian, trenutno vsebuje starejšo različico tega, boste morda želeli najprej varnostno kopirati datoteke s kartice, saj bodo med tem postopkom izbrisane.
 
 + Obiščite spletno stran SD Association in prenesite [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) za Windows ali Mac.
 
 + Sledite navodilom za namestitev programske opreme.
 
-+ Vstavite SD kartico v bralnik pomnilniških kartic računalnika in zabeležite črko pogona, ki ji je dodeljena, npr. `F: /`.
++ Vstavite SD kartico v bralnik pomnilniških kartic računalnika in si zapomnite črko pogona, ki ji je dodeljena, npr. `F: /`.
 
-+ V formatu SD Formatter izberite črko pogona za kartico SD in jo formatirajte.
++ V programu SD Formatter izberite črko pogona SD kartice in jo formatirajte.
 
-### Razširjenje NOOBS-a iz zip arhiva
+### Razširjanje NOOBS-a iz zip arhiva
 
-Nato boste morali iz zip datoteke NOOBS-a pridobiti datoteke.
+V naslednjem koraku boste morali razširiti datoteke iz NOOBS zip arhiva, ki ste ga pred tem prenesli iz Spletne strani Rasberry Pi.
 
 + Pojdite v mapo *Prenosi* in poiščite datoteko zip, ki ste jo prenesli.
 
-+ Izvlecite datoteke in odprite Raziskovalec / Explorer / Finder.
++ Razširite datoteke in pustite odprto okno Raziskovalec / Explorer / Finder, ki se ob tem pojavi.
 
 ### Kopiranje datotek
 
-+ Zdaj odprite nov Raziskovalec / Explorer / Finder in se pomaknite do SD kartice. Najbolje je, da oba okna postavite drug ob drugem.
++ Odprite še en Raziskovalec / Explorer / Finder in poiščite SD kartico. Najbolje je, da oba okna postavite drug ob drugem.
 
 + Izberite vse datoteke iz mape *NOOBS* in jih povlecite na kartico SD.
 
@@ -46,15 +46,15 @@ Nato boste morali iz zip datoteke NOOBS-a pridobiti datoteke.
 
 + Izvrzite SD kartico.
 
-### Zaganjanje NOOBS-a
+### Zaganjanje iz NOOBS-a
 
-+ Ko so datoteke kopirane, microSD kartico vstavite v Raspberry Pi in ga priključite v vir napajanja.
++ Potem ko so datoteke prekopirane, vstavite microSD kartico v svoj Raspberry Pi in ga priključite na vir napajanja.
 
-+ Namestitveni program vam bo ponudil izbiro operacijskih sistemov. Izberite **Raspbian**in nato kliknite **Namesti / Install**.
++ Namestitveni program vam bo ponudil izbor operacijskih sistemov. Označite **Raspbian**in nato kliknite **Namesti / Install**.
 
 ![namestitev](images/install.png)
 
-+ V opozorilnem pogovornem oknu kliknite **Da / Yes** in nato sedite in se sprostite. Namestitev bo trajala nekaj časa.
++ V oknu z opozorilom kliknite **Da / Yes**, nato pa sedite in se sprostite. Namestitev bo trajala nekaj časa.
 
 ![nameščanje](images/installing.png)
 
