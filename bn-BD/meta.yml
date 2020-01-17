@@ -1,16 +1,16 @@
 ---
-title: NOOBS সঙ্গে Raspbian ইনস্টলিং
-hero_image: ইমেজ / banner.png
-description: কোনও প্ল্যাটফর্ম থেকে, NOOBS ব্যবহার করে একটি এসডি কার্ডে রাসিবিএন ইনস্টল করতে কিভাবে একটি গাইড
+title: নুব এর সাহায্যে রাস্পবিয়ান এর ইনস্টল করা
+hero_image: ইমেজ/banner.png
+description: যে কোনও প্ল্যাটফর্ম থেকে এসডি কার্ডে নুব এর সাহায্যে রাস্পবিয়ান কিভাবে ইন্সটল করা যায় সে সম্পর্কে একটি গাইড
 original_url: https://raspberrypi.org/learning/noobs-install
 theme: লাল
-duration: 1
+duration: 0
 listed: false
 ingredient: true
 copyedit: false
-curriculum: স্রষ্টা, নকশা -0, প্রোগ্রামিং -0, পদার্থ-কম্প-0, উৎপাদন-0, কমিউনিটি -২0
+curriculum: সৃষ্টিকর্তা , নকশা -0, প্রোগ্রামিং -0, phys-comp-0, উৎপাদন-0, কমিউনিটি -২0
 interests: ''
-technologies: rpi, শারীরিক কম্পিউটিং, পাইথন
+technologies: rpi, ফিজিক্যাল কম্পিউটিং, পাইথন
 site_areas: ''
 steps:
   - 
