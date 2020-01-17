@@ -1,6 +1,6 @@
 ### 下載 NOOBS
 
-在您的 SD卡上安裝 Raspbian 的最簡單方法是使用 NOOBS。 取得 NOOBS：
+在您的 SD卡上安裝 Raspbian 的最簡單方法是使用 NOOBS。 通過以下的步驟取得NOOBS：
 
 + 造訪 [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
