@@ -1,6 +1,6 @@
 ---
 title: Installere Raspbian med NOOBS
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: En veiledning om hvordan installerer Raspbian på et SD-kort ved hjelp av NOOBS, fra hvilken som helst plattform
 original_url: https://raspberrypi.org/learning/noobs-install
 theme: red
