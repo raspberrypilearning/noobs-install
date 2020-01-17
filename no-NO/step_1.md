@@ -16,13 +16,13 @@
 
 ### Formatering av SD-kortet
 
-Hvis SD-kortet du vil installere Raspbian på inneholder en eldre versjon av Raspbian, vil du kanskje sikkerhetskopiere filene fra kortet først, da de blir overskrevet i løpet av denne prosessen.
+Hvis SD-kortet du vil installere Raspbian på inneholder en eldre versjon av Raspbian, kan det være lurt å sikkerhetskopiere filene fra kortet først, da de blir overskrevet i løpet av denne prosessen.
 
 + Besøk nettstedet til SD Association og last ned [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows eller Mac.
 
 + Følg instruksjonene for å installere programvaren.
 
-+ Sett inn SD-kortet i datamaskinens eller den bærbare maskinens SD-kortleser og noter ned stasjonsbokstaven den er tildelt, f.eks. `F: /`.
++ Sett inn SD-kortet i datamaskinens eller den bærbare maskinens SD-kortleser og legg merke til stasjonsbokstaven den er tildelt, f.eks. `F: /`.
 
 + I SD Formatter velger du stasjonsbokstaven for SD-kortet ditt, og formaterer det.
 
@@ -34,7 +34,7 @@ Deretter må du pakke ut filene fra NOOBS zip-arkivet du lastet ned fra Raspberr
 
 + Pakk ut filene og hold det resulterende Utforsker / Finder-vinduet åpent.
 
-### Kopierer filene
+### Kopiere filene
 
 + Nå åpner du et annet Utforsker/Finder-vindu og navigerer til SD-kortet. Det er best å plassere de to vinduene side ved side.
 
@@ -46,15 +46,15 @@ Deretter må du pakke ut filene fra NOOBS zip-arkivet du lastet ned fra Raspberr
 
 + Løs ut SD-kortet.
 
-### Oppstart fra NOOBS
+### Starte fra NOOBS
 
-+ Når filene er kopiert over, sett inn micro SD-kortet i din Raspberry Pi, og koble Pi-en til en strømkilde.
++ Når filene er kopiert over, sett inn SD-kortet i din Raspberry Pi, og koble Pi-en til en strømkilde.
 
-+ Du vil bli tilbudt et valg når installasjonsprogrammet har lastet inn. Du bør sjekke boksen for **Raspbian**, og klikk deretter **Installer**.
++ Du får nå et valg når installasjonsprogrammet har lastet inn. Du bør velge boksen for **Raspbian**, og klikke deretter **Install (Installer)**.
 
 ![installere](images/install.png)
 
-+ Klikk **Ja** i advarselsdialogen, og sett deg tilbake og slapp av. Det tar litt tid, men Raspbian vil installeres.
++ Klikk **Yes (Ja)** i dialogenboksen, og sett deg tilbake og slapp av. Det tar litt tid, men Raspbian vil installeres.
 
 ![installasjon](images/installing.png)
 
