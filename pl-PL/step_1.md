@@ -22,7 +22,7 @@ Jeśli karta SD, na której chcesz zainstalować Raspbian, ma obecnie starszą w
 
 + Postępuj zgodnie z instrukcjami, aby zainstalować oprogramowanie.
 
-+ Włóż kartę SD do czytnika kart SD komputera lub laptopa i zanotuj przypisaną do niej literę dysku, np. `F: /`.
++ Włóż kartę SD do czytnika kart SD komputera lub laptopa i zanotuj przypisaną do niej literę dysku, np. `F:/`.
 
 + W SD Formatter wybierz literę dysku dla karty SD i sformatuj ją.
 
