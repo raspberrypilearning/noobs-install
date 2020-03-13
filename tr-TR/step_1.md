@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### NOOBS'u İndirmek
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+NOOBS kullanmak, Raspbian'ı SD kartınıza kurmanın en kolay yoludur. NOOBS'un bir kopyasını edinmek için:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/) adresini ziyaret edin
 
-![Downloads page](images/downloads-page.png)
+![İndirilenler sayfası](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ NOOBS dosyalarının bağlantılarını içeren bir kutucuk göreceksiniz. Link'e tıklayınız.
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS seçeneğine tıklayın](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ En kolay seçenek, dosyaların zip arşiv halini indirmektir.
 
-![Download zip](images/download-zip.png)
+![Zip dosyasını indirin](images/download-zip.png)
 
-### Formatting the SD Card
+### SD Kartı Biçimlendirme
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Raspbian'ı kurmak istediğiniz SD kartın üzerinde Raspbian'ın daha eski bir sürümü varsa, eski dosyalarınızı karttan yedeklemek isteyebilirsiniz, çünkü bu işlem sırasında veriler önceki verilerin üzerine yazılacaklardır.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ SD Association'ın web sitesini ziyaret edin ve Windows veya Mac için [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html)'ı indirin.
 
-+ Follow the instructions to install the software.
++ Yazılımı kurmak için talimatları izleyin.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ SD kartınızı masaüstü veya dizüstü bilgisayarınızın SD kart yuvasına takın ve SD kartınızın sürücü harfini not ediniz, örneğin `F:/`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ SD Formatter 'da, SD kartınızın sürücü harfini seçin ve kartı biçimlendirin.
 
-### Extracting NOOBS from the zip archive
+### Zip Arşivinden NOOBS'u Çıkartma
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Ardından, Raspberry Pi web sitesinden indirdiğiniz NOOBS arşivindeki dosyaları çıkartmanız gerekecektir.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ *İndirilenler/* klasörüne gidin ve indirdiğiniz zip dosyasını bulun.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Dosyaları çıkartmak için üzerine çift tıklayın ve açılan Dosya Gezgini/Finder penceresini açık tutun.
 
-### Copying the files
+### Dosyaları kopyalama
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Şimdi başka bir Dosya Gezgini / Finder penceresi açın ve SD karta gidin. İki pencereyi yan yana yerleştirmek en iyi seçenektir.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ *NOOBS* klasörünün içindeki tüm dosyaları seçin ve SD karta sürükleyin.
 
-![windows copy](images/copy3.png)
+![windows kopyası](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopyası](images/macos_copy.png)
 
-+ Eject the SD card.
++ SD Kartı çıkarın.
 
-### Booting from NOOBS
+### NOOBS'dan sisteminizi çalıştırma
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ Dosyalar kopyalandıktan sonra, mikro SD Kartı Raspberry Pi'nize takın ve Pi'yi bir güç kaynağına takın.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Yükleyici yüklendiğinde size bir seçenek sunulacaktır. **Raspbian** kutucuğunu işaretleyin ve ardından **Kur** 'un üstüne tıklayın.
 
-![install](images/install.png)
+![yükle](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Uyarı kutusundaki **Evet**'i seçin, sonra arkanıza yaslanın ve rahatlayın. Biraz zaman alacak, ancak Raspbian kurulacaktır.
 
-![installing](images/installing.png)
+![yükleniyor](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Raspbian kurulduğunda, **Tamam**'a tıklayın ve Raspberry Pi'niz yeniden başlatılacaktır ve sonrasında Raspbian çalışıcaktır.
 
-![installed](images/installed.png)
+![yüklendi](images/installed.png)
