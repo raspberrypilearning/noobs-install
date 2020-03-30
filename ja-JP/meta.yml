@@ -1,16 +1,16 @@
 ---
 title: NOOBSを使ったRaspbianのインストール
-hero_image: images / banner.png
-description: NOOBSを使用してSDカードにRaspbianをインストールする方法に関するガイドです。
+hero_image: images/banner.png
+description: 複数のプラットフォームでNOOBSを使用してSDカードにRaspbianをインストールする方法に関するガイド
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: 赤
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: false
-curriculum: クリエイター、デザイン-0、プログラミング-0、phys-comp-0、製造-0、コミュニティ-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ''
-technologies: rpi、物理計算機、Python
+technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
