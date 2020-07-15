@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### Ladda ner NOOBS
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+Med NOOBS är det enkelt att installera Rasbian på ditt SD-kort. För att hämta NOOBS:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Gå till [ www.raspberrypi.org/downloads/ ](https://www.raspberrypi.org/downloads/)
 
-![Downloads page](images/downloads-page.png)
+![Nedladdningssida](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ Här skall du titta efter rutan med länken till NOOBS filerne. Klicka på länken.
 
-![Click on NOOBS](images/click-noobs.png)
+![Klicka på NOOBS](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ Det enklaste sättet är att ladda ner zip-arkivet med filerne.
 
-![Download zip](images/download-zip.png)
+![Ladda ner zip](images/download-zip.png)
 
-### Formatting the SD Card
+### Formatera SD-kortet
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+Om SD-kortet som du vill installera Raspbian på redan har en äldre version av Raspbian, kanske du vill säkerhetskopiera filerna från kortet först, eftersom de kommer att skrivas över när du formatterar kortet.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ Besök SD Associations webbsida och ladda ner [ SD Formatter 4.0 ](https://www.sdcard.org/downloads/formatter_4/index.html) till Windows eller Mac.
 
-+ Follow the instructions to install the software.
++ Följ instruktionerna för att installera programmet.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ Sätt in SD-kortet i datorns SD-kortläsare, och anteckna vilket nätverksenhet som kortet tilldelas, t.ex. `F:/`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ I SD Formatter väljer du enhetsbokstaven för ditt SD-kort och formaterar det.
 
-### Extracting NOOBS from the zip archive
+### Packa upp NOOBS från zip-arkivet
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+Därefter skall du packa upp filerna från NOOBS zip-arkivet som du laddade ner från Raspberry Pi-webbsidan.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ Gå till mappen * Hämtade filer * och finn zip-filen du laddade ner.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ Packa upp filerna, och låt Utforskaren vara öppen.
 
-### Copying the files
+### Kopiera filerna
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ Öppna nu ett annat Utforskaren-fönster och navigera till SD-kortet. Det kan vara bra att placera de två fönstren sida vid sida.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ Välj alla filer från * NOOBS * mappen och dra-och-släpp dem till SD-kortet.
 
-![windows copy](images/copy3.png)
+![windows kopia](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macos kopia](images/macos_copy.png)
 
-+ Eject the SD card.
++ Ta ut SD-kortet.
 
-### Booting from NOOBS
+### Starta upp från NOOBS
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ När filerna har kopierats sätter du in micro SD-kortet i din Raspberry Pi och ansluter Pi till en strömkälla.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ När installationsprogrammet har startat, får du ett val. Du skall markera rutan för ** Raspbian ** och sedan klicka på ** Installera **.
 
-![install](images/install.png)
+![installera](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ Klicka på ** Ja ** i dialogen som visas och luta dig sedan tillbaka och koppla av. Det kommer att ta ett tag, men nu installeras Raspbian.
 
-![installing](images/installing.png)
+![installerar](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ När Raspbian har installerats klickar du på ** OK **. Din Raspberry Pi startar om och Raspbian startar upp.
 
-![installed](images/installed.png)
+![installerat](images/installed.png)
