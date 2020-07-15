@@ -1,6 +1,6 @@
 ### Baixando NOOBS
 
-Usar o NOOBS é a maneira mais fácil de instalar o Raspbian no seu cartão SD. Para obter uma cópia do NOOBS:
+A maneira mais fácil de instalar o Raspbian no teu cartão SD é usando o NOOBS. Para obter uma cópia do NOOBS:
 
 + Visite [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
@@ -10,13 +10,13 @@ Usar o NOOBS é a maneira mais fácil de instalar o Raspbian no seu cartão SD. 
 
 ![Clique no NOOBS](images/click-noobs.png)
 
-+ A opção mais simples é baixar o arquivo zip dos arquivos.
++ A opção mais simples é baixar o arquivo zip.
 
 ![Baixar zip](images/download-zip.png)
 
 ### Formatando o cartão SD
 
-Se o cartão SD no qual você deseja instalar o Raspbian atualmente tiver uma versão mais antiga do Raspbian, você deve fazer o backup dos arquivos do cartão primeiro, pois eles serão sobrescritos durante este processo.
+Se o cartão SD no qual você deseja instalar o Raspbian atualmente tiver uma versão mais antiga do Raspbian, é recomendável que faça o backup dos arquivos do cartão primeiro, pois eles serão sobrescritos durante este processo.
 
 + Visite o site da SD Association e baixe [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows ou Mac.
 
@@ -42,9 +42,9 @@ Em seguida, você precisará extrair os arquivos do arquivo zip NOOBS que você 
 
 ![cópia do windows](images/copy3.png)
 
-![cópia MacOs](images/macos_copy.png)
+![cópia do MacOs](images/macos_copy.png)
 
-+ Ejetar o cartão SD.
++ Ejete o cartão SD.
 
 ### Inicializando a partir do NOOBS
 
