@@ -1,0 +1,16 @@
+---
+title: NOOBS මගින් Raspbian ස්ථාපනය කිරීම
+hero_image: images/banner.png
+description: මෙය ඕනෑම වේදිකාවක(platform එකක) සිට NOOBS භාවිතා කරමින් SD කාඩ් පතක Raspbian ස්ථාපනය(install) කරන්නේ කෙසේද යන්න පිළිබඳ මාර්ගෝපදේශයකි
+original_url: https://raspberrypi.org/learning/noobs-install
+theme: red
+duration: 1
+listed: false
+ingredient: true
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+  - title: හැදින්වීම
