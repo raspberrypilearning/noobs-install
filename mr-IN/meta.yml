@@ -1,10 +1,10 @@
 ---
-title: Installing Raspbian with NOOBS
+title: NOOBS सह रास्पबियन इन्स्टॉल करणे
 hero_image: images/banner.png
-description: A guide on how to install Raspbian on an SD card using NOOBS, from any platform
+description: कोणत्याही प्लॅटफॉर्मवरून NOOBS वापरुन एसडी कार्डवर रास्पबियन कसे इन्स्टॉल करावे याबद्दल मार्गदर्शन
 original_url: https://raspberrypi.org/learning/noobs-install
-theme: red
-duration: 1
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: false
@@ -14,4 +14,4 @@ technologies: rpi, physical computing, python
 site_areas: ''
 steps:
   - 
-    title: Introduction
+    title: परिचय
