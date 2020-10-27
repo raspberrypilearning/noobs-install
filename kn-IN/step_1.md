@@ -1,63 +1,63 @@
-### Downloading NOOBS
+### NOOBS ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು
 
-Using NOOBS is the easiest way to install Raspbian on your SD card. To get hold of a copy of NOOBS:
+ನಿಮ್ಮ SD ಕಾರ್ಡ್‌ನಲ್ಲಿ Raspbian ಅನ್ನು Install ಮಾಡಲು NOOBS ಅನ್ನು ಬಳಸುವುದು ಸುಲಭವಾದ ಮಾರ್ಗವಾಗಿದೆ. NOOBS ನ ಕಾಪಿ ಪಡೆಯಲು:
 
-+ Visit [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ [Raspberry Pi ಡೌನ್‌ಲೋಡ್ ಪುಟ](https://www.raspberrypi.org/downloads/)ಕ್ಕೆ ಭೇಟಿ ನೀಡಿ
 
-![Downloads page](images/downloads-page.png)
+![ಡೌನ್‌ಲೋಡ್‌ಗಳ ಪುಟ](images/downloads-page.png)
 
-+ You should see a box with a link to the NOOBS files. Click on the link.
++ ನೀವು NOOBS ಫೈಲ್‌ಗಳಿಗೆ ಲಿಂಕ್ ಹೊಂದಿರುವ ಪೆಟ್ಟಿಗೆಯನ್ನು ನೋಡುತೀರಿ. ಲಿಂಕ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![Click on NOOBS](images/click-noobs.png)
+![NOOBS ಕ್ಲಿಕ್ ಮಾಡಿ](images/click-noobs.png)
 
-+ The simplest option is to download the zip archive of the files.
++ ಫೈಲ್‌ಗಳ ಜಿಪ್(zip) ಆರ್ಕೈವ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಸುಲಭ.
 
-![Download zip](images/download-zip.png)
+![ಜಿಪ್ (zip) ಡೌನ್‌ಲೋಡ್](images/download-zip.png)
 
-### Formatting the SD Card
+### SD ಕಾರ್ಡ್ ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡುವುದು
 
-If the SD card on which you wish to install Raspbian currently has an older version of Raspbian on it, you may wish to back up the files from the card first, as they will be overwritten during this process.
+ನೀವು Raspbian ಅನ್ನು Install ಬಯಸುವ SD ಕಾರ್ಡ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ Raspbianನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನೀವು ಮೊದಲು ಕಾರ್ಡ್‌ನಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಯಸಬಹುದು, ಏಕೆಂದರೆ ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅವುಗಳನ್ನು ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ.
 
-+ Visit the SD Association’s website and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for Windows or Mac.
++ SD ಅಸೋಸಿಯೇಷನ್‌ನ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು Windows ಅಥವಾ Macಗಾಗಿ [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.
 
-+ Follow the instructions to install the software.
++ ಸಾಫ್ಟ್‌ವೇರ್ Install ಮಾಡಲು ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.
 
-+ Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`.
++ ನಿಮ್ಮ SD ಕಾರ್ಡ್ ಅನ್ನು ಕಂಪ್ಯೂಟರ್ ಅಥವಾ ಲ್ಯಾಪ್‌ಟಾಪ್‌ನ SD ಕಾರ್ಡ್ ರೀಡರ್‌ಗೆ ಸೇರಿಸಿ ಮತ್ತು ಅದಕ್ಕೆ ನಿಗದಿಪಡಿಸಿದ ಡ್ರೈವ್ ಅಕ್ಷರದ ಟಿಪ್ಪಣಿ ಮಾಡಿ, ಉದಾ. `F:/`.
 
-+ In SD Formatter, select the drive letter for your SD card, and format it.
++ SD ಫಾರ್ಮ್ಯಾಟರ್‌ನಲ್ಲಿ, ನಿಮ್ಮ SD ಕಾರ್ಡ್‌ಗಾಗಿ ಡ್ರೈವ್ ಅಕ್ಷರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅದನ್ನು ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿ.
 
-### Extracting NOOBS from the zip archive
+### Zip ಆರ್ಕೈವ್‌ನಿಂದ NOOBS ಅನ್ನು ಹೊರತೆಗೆಯುವುದು
 
-Next, you will need to extract the files from the NOOBS zip archive you downloaded from the Raspberry Pi website.
+ಮುಂದೆ, ನೀವು Raspberry Pi ವೆಬ್‌ಸೈಟ್‌ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ NOOBS ಜಿಪ್(zip) ಆರ್ಕೈವ್‌ನಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಹೊರತೆಗೆಯಬೇಕಾಗುತ್ತದೆ.
 
-+ Go to your *Downloads* folder and find the zip file you downloaded.
++ ನಿಮ್ಮ *Downloads* ಫೋಲ್ಡರ್‌ಗೆ ಹೋಗಿ ಮತ್ತು ನೀವು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಜಿಪ್ ಫೈಲ್ ಅನ್ನು ಹುಡುಕಿ.
 
-+ Extract the files and keep the resulting Explorer/Finder window open.
++ ಫೈಲ್‌ಗಳನ್ನು ಹೊರತೆಗೆಯಿರಿ ಮತ್ತು ಅದೇ Explorer/Finder ವಿಂಡೋವನ್ನು ತೆಗೆದಿಟ್ಟಿರಿ.
 
-### Copying the files
+### ಫೈಲ್‌ಗಳನ್ನು ಕಾಪಿಮಾಡುವುದು
 
-+ Now open another Explorer/Finder window and navigate to the SD card. It's best to position the two windows side by side.
++ ಈಗ ಮತ್ತೊಂದು Explorer/Finder ವಿಂಡೋವನ್ನು ತೆರೆಯಿರಿ ಮತ್ತು SD ಕಾರ್ಡ್‌ಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ. ಎರಡು ವಿಂಡೋಗಳನ್ನು ಅಕ್ಕಪಕ್ಕದಲ್ಲಿ ಇಡುವುದು ಉತ್ತಮ.
 
-+ Select all the files from the *NOOBS* folder and drag them onto the SD card.
++ *NOOBS* ಫೋಲ್ಡರ್‌ನಿಂದ ಎಲ್ಲಾ ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ ಮತ್ತು ಅವುಗಳನ್ನು SD ಕಾರ್ಡ್‌ಗೆ ಎಳೆಯಿರಿ (Drag).
 
-![windows copy](images/copy3.png)
+![windows ಕಾಪಿ](images/copy3.png)
 
-![macos copy](images/macos_copy.png)
+![macOS ಕಾಪಿ](images/macos_copy.png)
 
-+ Eject the SD card.
++ SD ಕಾರ್ಡ್ ಅನ್ನು ಹೊರತೆಗೆಯಿರಿ.
 
-### Booting from NOOBS
+### NOOBS ನಿಂದ Boot ಮಾಡುವುದು
 
-+ Once the files have been copied over, insert the micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
++ ಫೈಲ್‌ಗಳನ್ನು ಕಾಪಿಯದಾ ನಂತರ, ಮೈಕ್ರೊ SD ಕಾರ್ಡ್ ಅನ್ನು ನಿಮ್ಮ Raspberry Pi ಗೆ ಸೇರಿಸಿ, ಮತ್ತು Pi ಅನ್ನು ವಿದ್ಯುತ್ ಮೂಲಕ್ಕೆ ಪ್ಲಗ್ ಮಾಡಿ.
 
-+ You will be offered a choice when the installer has loaded. You should check the box for **Raspbian**, and then click **Install**.
++ Installer ಲೋಡ್ ಆಗಿರುವಾಗ ನಿಮಗೆ ಆಯ್ಕೆ ನೀಡಲಾಗುವುದು. **Raspbian** ಬಾಕ್ಸ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ **Install** ಕ್ಲಿಕ್ ಮಾಡಿ.
 
 ![install](images/install.png)
 
-+ Click **Yes** at the warning dialog, and then sit back and relax. It will take a while, but Raspbian will install.
++ ಎಚ್ಚರಿಕೆಯ ಸಂದೇಶದಲ್ಲಿ ಹೌದು**(Yes)** ಕ್ಲಿಕ್ ಮಾಡಿ, ತದನಂತರ ಕುಳಿತು ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ. ಇದು ಸ್ವಲ್ಪ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ, ಆದರೆ Raspbian Install ಮಾಡುತ್ತದೆ.
 
-![installing](images/installing.png)
+![install ಆಗುತ್ತಿರುವುದು](images/installing.png)
 
-+ When Raspbian has been installed, click **OK** and your Raspberry Pi will restart and Raspbian will then boot up.
++ Raspbian ಅನ್ನು Install ಮಾಡಿದಮೇಲೆ, **OK** ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ Raspberry Pi ಮರುಪ್ರಾರಂಭಗೊಳ್ಳುತ್ತದೆ ಮತ್ತು Raspbian ನಂತರ ಬೂಟ್ ಆಗುತ್ತದೆ.
 
-![installed](images/installed.png)
+![install ಆಗಿರುವುದು](images/installed.png)
