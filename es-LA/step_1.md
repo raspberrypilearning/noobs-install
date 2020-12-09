@@ -2,7 +2,7 @@
 
 Usar NOOBS es la forma más fácil de instalar Raspbian en tu tarjeta SD. Para obtener una copia de NOOBS:
 
-+ Visite [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
++ Visita [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)
 
 ![Página de descargas](images/downloads-page.png)
 
@@ -18,11 +18,11 @@ Usar NOOBS es la forma más fácil de instalar Raspbian en tu tarjeta SD. Para o
 
 Si la tarjeta SD en la que deseas instalar Raspbian ya tiene una versión anterior de Raspbian, es recomendable que primero hagas una copia de seguridad de los archivos de la tarjeta, ya que se sobreescribirán durante este proceso.
 
-+ Visite el sitio web de la SD Association (Asociación SD) y descarga el programa [SD Memory Card Formatter (la última versión)](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows o Mac.
++ Visita el sitio web de la SD Association (Asociación SD) y descarga el programa [SD Memory Card Formatter (la última versión)](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows o Mac.
 
 + Sigue las instrucciones para instalar el software.
 
-+ Inserte la tarjeta SD en el lector de tarjetas SD de tu computadora o laptop y anote la letra de unidad que le ha sido asignada, por ejemplo `F:/`.
++ Inserta la tarjeta SD en el lector de tarjetas SD de tu computadora o laptop y anote la letra de unidad que le ha sido asignada, por ejemplo `F:/`.
 
 + En SD Formatter, selecciona la letra de unidad de tu tarjeta SD y formatéala.
 
@@ -48,7 +48,7 @@ A continuación, deberás extraer los archivos que hay en el fichero zip de NOOB
 
 ### Iniciar con NOOBS
 
-+ Una vez que se hayan copiado los archivos, inserta la tarjeta microSD en tu Raspberry Pi, y conecta el Pi a una fuente de alimentación.
++ Una vez que se hayan copiado los archivos, inserta la tarjeta micro SD en la Raspberry Pi y conecta el Pi a una fuente de alimentación.
 
 + Cuando el instalador haya cargado, se te ofrecerá elegir una opción. Debes marcar la casilla para **Raspbian**, y luego hacer clic en **Install** (Instalar).
 
