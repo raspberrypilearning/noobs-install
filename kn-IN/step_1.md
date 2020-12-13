@@ -2,7 +2,7 @@
 
 ನಿಮ್ಮ SD ಕಾರ್ಡ್‌ನಲ್ಲಿ Raspbian ಅನ್ನು Install ಮಾಡಲು NOOBS ಅನ್ನು ಬಳಸುವುದು ಸುಲಭವಾದ ಮಾರ್ಗವಾಗಿದೆ. NOOBS ನ ಕಾಪಿ ಪಡೆಯಲು:
 
-+ [Raspberry Pi ಡೌನ್‌ಲೋಡ್ ಪುಟ](https://www.raspberrypi.org/downloads/)ಕ್ಕೆ ಭೇಟಿ ನೀಡಿ
++ [www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/)ಕ್ಕೆ ಭೇಟಿ ನೀಡಿ
 
 ![ಡೌನ್‌ಲೋಡ್‌ಗಳ ಪುಟ](images/downloads-page.png)
 
@@ -16,7 +16,7 @@
 
 ### SDcard ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡುವುದು
 
-ನೀವು Raspbian ಅನ್ನು Install ಬಯಸುವ SD ಕಾರ್ಡ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ Raspbianನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನೀವು ಮೊದಲು ಕಾರ್ಡ್‌ನಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಯಸಬಹುದು, ಏಕೆಂದರೆ ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅವುಗಳನ್ನು ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ.
+ನೀವು Raspbian ಅನ್ನು Install ಬಯಸುವ SD ಕಾರ್ಡ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ Raspbian ನ ಹಳೆಯ ಆವೃತ್ತಿಯನ್ನು ಹೊಂದಿದ್ದರೆ, ನೀವು ಮೊದಲು ಕಾರ್ಡ್‌ನಿಂದ ಫೈಲ್‌ಗಳನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಬಯಸಬಹುದು, ಏಕೆಂದರೆ ಈ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅವುಗಳನ್ನು ತಿದ್ದಿ ಬರೆಯಲಾಗುತ್ತದೆ.
 
 + SD ಅಸೋಸಿಯೇಷನ್‌ನ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು Windows ಅಥವಾ Macಗಾಗಿ [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.
 
