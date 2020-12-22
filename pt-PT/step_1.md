@@ -48,7 +48,7 @@ Em seguida, é necessário extrair os ficheiros do arquivo zip com o NOOBS que v
 
 ### Arranque do NOOBS
 
-+ Uma vez os arquivos copiados, insere o cartão micro SD no seu Raspberry Pi e liga o Pi a uma fonte de energia.
++ Uma vez os arquivos copiados, insere o cartão micro SD no teu Raspberry Pi e liga o Pi a uma fonte de energia.
 
 + Ser-lhe-á oferecida uma escolha quando o instalador for carregado. Deves marcar a caixa **Raspbian** e, em seguida, clicar em **Instalar**.
 
